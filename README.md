@@ -8,7 +8,9 @@ NSF COMPASS Center
 
 Author: Brian R. Wasik, Cornell University
 
-v1.0 2026.04.27
+v1.0.0 2026.04.27
+
+Citation of use: https://zenodo.org/records/XXX
 
 # Rationale
 
@@ -82,6 +84,6 @@ Draft _HA-specific column definitions_ to resolve these issues to include:
 **Position reported:** the amino acid residue position as enumerated in the text of the study (which may not align with major consensus, etc)
 
 # Stats
-v1.0
+v1.0.0
 
 Total references: 374
