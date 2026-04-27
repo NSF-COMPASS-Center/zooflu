@@ -10,7 +10,9 @@ Author: Brian R. Wasik, Cornell University
 
 v1.0.0 2026.04.27
 
-Citation of use: https://zenodo.org/records/XXX
+Citation of use: https://zenodo.org/records/19825689
+
+https://doi.org/10.5281/zenodo.19825689
 
 # Rationale
 
