@@ -1,0 +1,91 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+NP,27,A,V,A27V,H3N8,Mouse adaptation,> virulence mice,A/gallinula/Guangzhou/A1/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+NP,33,V,I,V33I,H5N1,Exp mutagenesis,> virulence mice (w PB2-E627K),,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+NP,34,D,N,D34N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+NP,34,D,N,D34N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+NP,34,S,G,S34G,H3N8,"Observation, mammalian cases",eqMx1 evasion,A/equine/Jilin/1/1989 (H3N8),Fatima 2019 Viruses,31810278,10.3390/v11121114,"Naturally occuring in horse, Jilin H3N8 lineage"
+NP,41,I,V,I41V,H7N9,Observation,> Pol at low temp,,Zhu 2015 Virol J,25940512,10.1186/s12985-015-0304-6,Naturally occuring H7N9 (G1-like internal)
+NP,48,K,Q,K48Q,H1N1,"Observation, mammalian cases",MxA evasion,A/Swine/Belzig/2/2001 (H1N1),Dornfeld 2019 J Virol,30355693,10.1128/jvi.00997-18,Naturally occuring swH1N1
+NP,51,,D,X51D,H3N2,DMS,"Necessary for MxA evasion, naturally occuring",A/Aichi/2/1968 (H3N2),Ashenberg 2017 PLoS Pathog,28346537,10.1371/journal.ppat.1006288,DMS of NP (A/Aichi/2/1968(H3N2))
+NP,52,Y,N,Y52N,H1N1,Mouse adaptation,MxA evasion,PR8,Riegger 2015 J Virol,25505067,10.1128/JVI.02406-14,MA to transgenic MxA
+NP,52,Y,N,Y52N,H7N9,Observation,MxA evasion,,Riegger 2015 J Virol,25505067,10.1128/JVI.02406-14,Naturally occuring variant
+NP,52,Y,N,Y52N,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,LPAI
+NP,52,Y,N,Y52N,,Exp mutagenesis,BTN3A3 evasion,,Pinto 2023 Nature,37380775,10.1038/s41586-023-06261-8,
+NP,52,Y,H,Y52H,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NP,52,Y,H,Y52H,,Exp mutagenesis,BTN3A3 evasion,,Pinto 2023 Nature,37380775,10.1038/s41586-023-06261-8,
+NP,52,Y,Q,Y52Q,,Exp mutagenesis,BTN3A3 evasion,,Pinto 2023 Nature,37380775,10.1038/s41586-023-06261-8,
+NP,52,N,H,N52H,H3N8,"Observation, mammalian cases",eqMx1 evasion,A/equine/Jilin/1/1989 (H3N8),Fatima 2019 Viruses,31810278,10.3390/v11121114,"Naturally occuring in horse, Jilin H3N8 lineage"
+NP,53,E,D,E53D,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-2009 (A/Hamburg/4/2009)
+NP,98,R,K,R98K,H1N1,"Observation, mammalian cases",MxA evasion,A/Swine/Belzig/2/2001 (H1N1),Dornfeld 2019 J Virol,30355693,10.1128/jvi.00997-18,Naturally occuring swH1N1
+NP,99,R,K,R99K,H1N1,"Observation, mammalian cases",MxA evasion,A/Swine/Belzig/2/2001 (H1N1),Dornfeld 2019 J Virol,30355693,10.1128/jvi.00997-18,Naturally occuring swH1N1
+NP,100,R,I,R100I,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-1918 (A/BrevigMission/1/1918)
+NP,100,R,V,R100V,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-2009 (A/Hamburg/4/2009)
+NP,100,V,I,V100I,H1N1,"Observation, human cases","> virulence mice, > cytokine inflammation",A/Hamburg/NY1580/09 (H1N1),Otte 2015 J Virol,25948752,10.1128/JVI.00665-15,Naturally occuring H1N1pdm09
+NP,101,D,G,D101G,H1N1,Mouse adaptation,> virulence mice,A/CA/04/09 (H1N1),Ilyushina 2010 J Virol,20592084,10.1128/JVI.00159-10,
+NP,102,R,A,R102A,H3N2,DMS,"> MxA evasion, minigenome exp",A/Aichi/2/1968 (H3N2),Ashenberg 2017 PLoS Pathog,28346537,10.1371/journal.ppat.1006288,DMS of NP (A/Aichi/2/1968(H3N2))
+NP,105,M,V,M105V,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+NP,105,M,V,M105V,H5N1,Exp reassortment,> virulence chickens,,Tada 2011a J Virol,21123376,10.1128/JVI.01648-10,Reassortment of HPAI strains
+NP,105,V,M,V105M,H5N6,Exp infection,> replication mice,A/Bean goose/South Korea/KNU18-6/2018 (H5N6),Nguyen 2020 Viruses,32709116,10.3390/v12070774,"Naturally occuring variants, H5N6, South Korea, 2018"
+NP,105,V,M,V105M,H9N2,Mouse adaptation,> virulence mice,A/duck/Jiangsu/1/2008 (H9N2),Liu 2014 Arch Virol,24696271,10.1007/s00705-014-2062-y,
+NP,109,I,T,I109T,H5N1,Chicken adaptation,"> replication, > virulence chickens",A/duck/Yokohama/aq10/2003 (H5N1),Tada 2011b J Virol,21795332,10.1128/JVI.00605-11,"Passage adatation in chickens, H5N1"
+NP,119,I,M,I119M,H5N1,Exp infection,"> Pol, neuroinfection in ferret",A/Indonesia/5/2005 (H5N1),Siegers 2023 PLoS Pathog,36897923,10.1371/journal.ppat.1011214,Ferret CNS infection variant of A/Indonesia/5/2005
+NP,133,I,L,I133L,H1N1,Exp infection,"> virulence mice, > cytokine inflammation",A/Hamburg/NY1580/09 (H1N1),Otte 2015 J Virol,25948752,10.1128/JVI.00665-15,Naturally occuring H1N1pdm09
+NP,136,,M,X136M,H5N1,Exp reassortment,> replication COS-1,A/Hong Kong/156/97 (H5N1),Naffakh 2000 J Gen Virol,10769071,10.1099/0022-1317-81-5-1283,Exp segment reassortment from huH5N1 case
+NP,184,A,K,A184K,H3N3,Observation,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+NP,184,A,K,A184K,H5N1,Exp mutagenesis,"> rep avian, > infection, > virulence chickens",,Wasilenko 2009 Arch Virol,19475480,10.1007/s00705-009-0399-4,
+NP,210,E,D,E210D,H7N9,Observation,> Pol at low temp,,Zhu 2015 Virol J,25940512,10.1186/s12985-015-0304-6,Naturally occuring H7N9 (G1-like internal)
+NP,231,R,Q,R231Q,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NP,240,D,A,D240A,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NP,246,R,T,R246T,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+NP,283,L,P,L283P,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-1918 (A/BrevigMission/1/1918)
+NP,283,L,P,L283P,H5N1,Exp mutagenesis,> virulence mice (w PB2-E627K),,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+NP,283,,P,X283P,H3N2,DMS,Necessary for MxA evasion,A/Aichi/2/1968 (H3N2),Ashenberg 2017 PLoS Pathog,28346537,10.1371/journal.ppat.1006288,DMS of NP (A/Aichi/2/1968(H3N2))
+NP,284,V,M,V284M,H7N1,Ferret adaptation,> transmission ferrets,,Sutton 2014 J Virol,24696487,10.1128/jvi.02765-13,
+NP,284,A,T,A284T,H7N9,Mouse adaptation,> virulence mice,A/Shanghai/2/2013 (H7N9),Zhao 2016 Vet Microbiol,27066703,10.1016/j.vetmic.2016.02.027,
+NP,288,G,V,G288V,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+NP,289,H,Y,H289Y,H1N1,Mouse adaptation,> virulence mice,A/TN/1-560/09 (H1N1),Ilyushina 2010 J Virol,20592084,10.1128/JVI.00159-10,
+NP,289,Y,H,Y289H,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-2009 (A/Hamburg/4/2009)
+NP,297,S,F,S297F,H7N1,Cell culture adaptation,,A/ostrich/Zimbabwe/222-E3/1996 (H7N1),Ninpan 2017 Virus Res,28579356,10.1016/j.virusres.2017.05.021,Passage adaptation in A549
+NP,313,F,Y,F313Y,,Exp mutagenesis,BTN3A3 evasion,,Pinto 2023 Nature,37380775,10.1038/s41586-023-06261-8,
+NP,313,F,Y,F313Y,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-1918 (A/BrevigMission/1/1918)
+NP,313,F,V,F313V,H5N1,Exp mutagenesis,MxA evasion,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2013 PLoS Pathog,23555271,10.1371/journal.ppat.1003279,From H1N1-2009 (A/Hamburg/4/2009)
+NP,319,N,K,N319K,H7N7,Exp infection,"> virulence mice, > Pol",A/Seal/Massachussetts/1/80 (H7N7),Gabriel 2005 Proc Natl Acad Sci U S A,16339318,10.1073/pnas.0507415102,
+NP,319,N,K,N319K,H7N7,Exp mutagenesis,"interaction with importin alpha1, w/ PB2-D701N",,Gabriel 2008 PLoS Pathog,18248089,10.1371/journal.ppat.0040011,
+NP,351,R,K,R351K,H1N1,Exp infection,"> replication pigs, > transmission pigs",,Su 2021 Nat Microbiol,34702977,10.1038/s41564-021-00976-y,Naturally occuring swH1N1
+NP,351,R,K,R351K,H5N2,Mouse adaptation,> virulence mice,A/chicken/Hebei/1102/2010 (H5N2),Li 2014 Vet Microbiol,25037995,10.1016/j.vetmic.2014.06.018,
+NP,352,M,I,M352I,H7N9,Mouse adaptation,> virulence mice,A/Shanghai/2/2013 (H7N9),Zhao 2016 Vet Microbiol,27066703,10.1016/j.vetmic.2016.02.027,
+NP,353,I,V,I353V,H1N1,Mouse adaptation,> virulence mice,A/Tomsk/273/2010 (H1N1),Prokopyeva 2016 Infect Genet Evol,26829383,10.1016/j.meegid.2016.01.022,
+NP,357,Q,K,Q357K,H1N1,Exp infection,> virulence mice,,Zhu 2019 Emerg Microbes Infect,31267843,10.1080/22221751.2019.1635873,Naturally occuring swH1N1
+NP,357,Q,L,Q357L,H5N1,Exp mutagenesis,> virulence mice (w PB2-E627K),,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+NP,363,V,I,V363I,H7N9,Cell culture adaptation,,A/Taiwan/1/2013 (H7N9),Huang 2017 Sci Rep,28900138,10.1038/s41598-017-10749-5,Passage adaptation in hAECs
+NP,373,I,T,I373T,H1N1,"Observation, human cases","> virulence mice, > cytokine inflammation",A/Hamburg/NY1580/09 (H1N1),Otte 2015 J Virol,25948752,10.1128/JVI.00665-15,Naturally occuring H1N1pdm09
+NP,375,D,N,D375N,H1N1,Mouse adaptation,> virulence mice,A/California/04/09 (H1N1),Sakabe 2011 Virus Res,21458512,10.1016/j.virusres.2011.03.022,
+NP,398,K,Q,K398Q,H3N8,Observation,,A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+NP,399,Q,R,Q399R,H3N2,DMS,"> MxA evasion, minigenome exp",A/Aichi/2/1968 (H3N2),Ashenberg 2017 PLoS Pathog,28346537,10.1371/journal.ppat.1006288,DMS of NP (A/Aichi/2/1968(H3N2))
+NP,428,A,T,A428T,H9N2,Swine adaptation,> replication pigs,A/quail/Hong Kong/G1/1997 (H9N2),Mancera 2017 PLoS One,28384328,10.1371/journal.pone.0175267,Exp swine adaptation
+NP,433,S,T,S433T,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,
+NP,434,E,K,E434K,H9N2,Guinea pig adaptation,"> GP contact transmission, > Pol",A/Chicken/Shandong/Li-2/2010 (H9N2),Sang 2015 Sci Rep,26552719,10.1038/srep15928,"Passage adaptation in GP, H9N2"
+NP,460,G,R,G460R,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+NP,470,K,R,K470R,H5N1,Exp mutagenesis,> virulence mice,,Chen 2017 Front Microbiol,28744280,10.3389/fmicb.2017.01308,
+NP,479,L,F,L479F,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P2"
+NP,480,D,N,D480N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+NP,480,D,N,D480N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+NP,492,K,N,K492N,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NP,494,G,E,G494E,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

@@ -1,0 +1,324 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+PB2,9,D,N,D9N,H5N1,Exp mutagenesis,> virulence mice,,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+PB2,9,D,N,D9N,H5N1,Exp mutagenesis,> mitochondial localization,A/turkey/England/50-92/91 (H5N1),Graef 2010 J Virol,20538852,10.1128/jvi.00879-10,
+PB2,9,D,N,D9N,H1N1,Exp infection,> virulence mice,WSN (H1N1),Graef 2010 J Virol,20538852,10.1128/jvi.00879-10,
+PB2,17,R,C,R17C,H3N8,Mouse adaptation,> virulence mice,A/Wide Bird/Ebinur Lake-xinjiang/47/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+PB2,23,T,I,T23I,H5N6,Mouse adaptation,> virulence mice,A/Northern Shoveler/Ningxia/488-53/2015 (H5N6),Zhang 2017 Front Microbiol,28966609,10.3389/fmicb.2017.01763,
+PB2,35,T,A,T35A,H3N8,Mouse adaptation,> virulence mice,A/Wide Bird/Ebinur Lake-xinjiang/47/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+PB2,63,T,I,T63I,H5N1,Exp mutagenesis,"> Pol, > virulence mice, w/ PB1-M677T",A/Vietnam/1194/2004 (H5N1),Li 2011 J Gen Virol,21367983,10.1099/vir.0.030718-0,H5N1 attenuated plaque variants
+PB2,63,I,T,I63T,H5N1,Mouse adaptation,"> virulence mice, w/ PB1-T677M",A/Vietnam/1194/2004 (H5N1),Han 2015 J Med Virol,26089289,10.1002/jmv.24257,
+PB2,63,I,V,I63V,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+PB2,73,Q,E,Q73E,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,74,G,S,G74S,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,74,G,S,G74S,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,74,G,R,G74R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,81,T,A,T81A,H5N1,Exp mutagenesis,"> Pol, minigenome exp, > replication, often in combination",,Arai 2018 Sci Rep,30166556,10.1038/s41598-018-31397-3,From huH5N1 cases
+PB2,81,T,I,T81I,H7N1,Ferret adaptation,> transmission ferrets,,Sutton 2014 J Virol,24696487,10.1128/jvi.02765-13,
+PB2,89,L,V,L89V,H5N1,Mouse adaptation,"> Pol, > virulence mice",A/wild duck/Hunan/021/2005 (H5N1),Li 2009 Virus Res,19393699,10.1016/j.virusres.2009.04.008,"MA, P15"
+PB2,100,N,S,N100S,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,109,V,T,V109T,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,112,P,L,P112L,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,114,V,I,V114I,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,115,H,Q,H115Q,H7N9,Mouse adaptation,"> virulence mice, GP airborne transmission",A/environment/Hebei/621/2019 (H7N9),Zhang 2021 Front Cell Infect Microbiol,34164347,10.3389/fcimb.2021.688007,"Sampled, China, 2019"
+PB2,134,L,H,L134H,H1N2,Mouse adaptation,> virulence mice,A/black-necked crane/Zhaotong/ZT-12/2013 (H1N2),Yu 2017 Vet Microbiol,28757046,10.1016/j.vetmic.2017.06.009,
+PB2,137,N,S,N137S,H9N2,Exp mutagenesis,"> Pol, > replication, w/ PB2-A588V",,Elgendy 2021 J Gen Virol,34061017,10.1099/jgv.0.001612,
+PB2,147,I,M,I147M,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,147,I,T,I147T,H5N1,Exp mutagenesis,"> Pol, > virulence mice",A/duck/Vietnam/TY165/2010 (H5N1),Fan 2014 Nat Commun,25289523,10.1038/ncomms6021,Observed human case (A/Xinjiang/1/2009)
+PB2,147,M,L,M147L,H9N2,Mouse adaptation,"> replication mice, > virulence mice","A/chicken/Shandong/16/05 (H9N2), w/ E627K vir",Wang 2012 PLoS One,22808250,10.1371/journal.pone.0040752,
+PB2,153,D,V,D153V,H3N8,"Observation, human cases","> virulence, observed human cases",,Li 2023 Influenza Other Respir Viruses,37380173,10.1111/irv.13169,
+PB2,155,S,N,S155N,H9N2,Mouse adaptation,"> virulence mice, > replication mice, >Pol (tri: PB2-S155N, PA-S49Y, PA-D347G)",A/chicken/Jiangsu/875/2018 (H9N2) using rJS/875-PB2 627S+701L,Guo 2023 Vet Res,37858267,10.1186/s13567-023-01221-6,
+PB2,158,E,G,E158G,H1N1,Mouse adaptation,"> Pol, > replication, > virulence mice",A/New York/1682/2009 (H1N1),Zhou 2011 J Virol,20962098,10.1128/JVI.01694-10,
+PB2,158,E,G,E158G,H5N2,Exp mutagenesis,> virulence mice,A/Mallard/Wisconsin/944/1982 (H5N2),Zhou 2011 J Virol,20962098,10.1128/JVI.01694-10,
+PB2,158,E,G,E158G,H5N9,Exp mutagenesis,> virulence mice,A/Turkey/Ontario/7732/1966 (H5N9),Zhou 2011 J Virol,20962098,10.1128/JVI.01694-10,
+PB2,158,E,G,E158G,H5N1,Exp mutagenesis,> Pol,A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,158,E,G,E158G,H1N1,Mouse adaptation,"> Pol, > virulence mice",A/CA/04/09 (H1N1),Ilyushina 2010 J Virol,20592084,10.1128/JVI.00159-10,
+PB2,158,E,A,E158A,H1N1,Mouse adaptation,"> Pol (w PA-L295P), > virulence mice",A/TN/1-560/09 (H1N1),Ilyushina 2010 J Virol,20592084,10.1128/JVI.00159-10,
+PB2,158,E,G,E158G,H1N1,Mouse adaptation,> virulence mice,A/Narita/1/2009 (H1N1),Ainai 2015 PLoS One,26079133,10.1371/journal.pone.0130208,
+PB2,158,E,K,E158K,H4N6,Mouse adaptation,"> Pol, > virulence mice",A/mallard/Beijing/21/2011 (H4N6),Xu 2020 J Gen Virol,31081750,10.1099/jgv.0.001192,
+PB2,158,E,G,E158G,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,158,E,G,E158G,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,158,E,G,E158G,H10N7,Mouse adaptation,> virulence mice,A/mallard/Beijing/27/2011 (H10N7),Zhang 2017 J Gen Virol,28597818,10.1099/jgv.0.000770,
+PB2,158,G,E,G158E,,Exp mutagenesis,ANP32 interaction,,Peacock 2023 J Virol,37074204,10.1128/jvi.00213-23,
+PB2,181,,S,181S,H5N1,Exp mutagenesis,critical phosphorylation target,A/Chicken/Jiangsu/k0402/2010 (H5N1),Hu 2024 Virol Sin,38103645,10.1016/j.virs.2023.12.003,
+PB2,183,L,S,L183S,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,185,M,I,M185I,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Hubei/01/1999 (H9N2),Zhang 2011 Infect Genet Evol,21896338,10.1016/j.meegid.2011.07.025,LPAI H9N2
+PB2,187,K,Q,K187Q,H5N1,Exp mutagenesis,"> virulence in mice, > phosphorylation of PB2-187",A/Chicken/Jiangsu/k0402/2010 (H5N1),Hu 2024 Virol Sin,38103645,10.1016/j.virs.2023.12.003,
+PB2,189,K,R,K189R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,189,K,R,K189R,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,192,E,K,E192K,H3N2,Mouse adaptation,> virulence mice,A/baikal teal/Shanghai/SH-89/2013 (H3N2),Yu 2017 Vet Microbiol,28757037,10.1016/j.vetmic.2017.05.020,LPAI H3N2
+PB2,192,E,K,E192K,H5N1,Exp mutagenesis,"> virulence mice, > Pol, > replication","A/Muscovy duck/Vietnam/TY93/2007 (H5N1), RG reassortant w/ WSN",Taft 2015 Nat Commun,26082035,10.1038/ncomms8491,"Mutagenesis of Pol genes of H5N1 isolate, recombinant with WSN HA/NA"
+PB2,193,L,H,L193H,H6N1,Mouse adaptation,> virulence mice,A/chicken/Zhejiang/1664/2017 (H6N1),Wu 2019 Infect Genet Evol,31200112,10.1016/j.meegid.2019.103918,
+PB2,199,A,S,A199S,H1N1,"Observation, human cases",,,Taubenberger 2005 Nature,16208372,10.1038/nature04230,Discovery of 1918 H1N1 variants of polymerase genes
+PB2,199,A,S,A199S,H5N1,Exp mutagenesis,> virulence mice,,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+PB2,199,A,S,A199S,H5N1,Exp reassortment,> replication COS-1,A/Hong Kong/156/97 (H5N1),Naffakh 2000 J Gen Virol,10769071,10.1099/0022-1317-81-5-1283,Exp segment reassortment from H5N1 case
+PB2,199,A,S,A199S,H5N1,Exp mutagenesis,> Pol,A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,207,L,V,L207V,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"Wild isolate, P2"
+PB2,207,L,V,L207V,H10N8,Mouse adaptation,> virulence mice,A/environment/Dongting Lake/Hunan/3-9/2007 (H10N8),Mei 2016 Infect Genet Evol,26477933,10.1016/j.meegid.2015.10.016,
+PB2,235,T,I,T235I,H3N8,Mouse adaptation,> virulence mice,A/gallinula/Guangzhou/A1/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+PB2,250,V,G,V250G,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Shandong/16/05 (H9N2),Wang 2012 PLoS One,22808250,10.1371/journal.pone.0040752,
+PB2,251,K,R,K251R,H1N1,Mouse adaptation,> virulence mice,A/Tomsk/273/2010 (H1N1),Prokopyeva 2016 Infect Genet Evol,26829383,10.1016/j.meegid.2016.01.022,
+PB2,251,R,K,R251K,H1N1,Exp mutagenesis,"> virulence mice, > Pol",A/swine/Guangdong/YJ4/2014 and A/swine/Guangdong/MS285/2017,Cai 2020 Viruses,31906472,10.3390/v12010052,swH1N1 variants
+PB2,253,D,N,D253N,H9N2,Exp mutagenesis,"> Pol, > replication, > virulence mice",,Mok 2011 J Virol,21734052,10.1128/JVI.00702-11,
+PB2,253,D,N,D253N,H9N2,Exp mutagenesis,"> Pol, > replication",A/Duck/Hong Kong/Y280/97 (H9N2),Zhang 2018 Virol Sin,30569291,10.1007/s12250-018-0072-8,
+PB2,253,D,N,D253N,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,253,D,N,D253N,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,256,D,G,D256G,H5N1,Exp reassortment,"> Pol, > replication pigs",A/chicken/Yamaguchi/7/2004 (H5N1),Manzoor 2009 J Virol,19052090,10.1128/JVI.01879-08,
+PB2,256,D,G,D256G,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,256,D,G,D256G,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,271,T,A,T271A,H3N2,Exp mutagenesis,"> Pol, > replication",A/chicken/Nanchang/3-120/01 (H3N2),Bussey 2010 J Virol,20181719,10.1128/JVI.02642-09,
+PB2,271,T,A,T271A,H5N1,Exp mutagenesis,"> Pol, > replication",A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,271,T,A,T271A,H1N1,Exp mutagenesis,> replication,PR8 (H1N1),Foeglein 2011 J Gen Virol,21471313,10.1099/vir.0.031492-0,
+PB2,271,T,A,T271A,H1N1,Exp mutagenesis,"> replication, in combination: 271A/590S/591R",,Liu 2012 J Virol,22072752,10.1128/JVI.05699-11,PB2 of SIV/H1N1pdm09
+PB2,271,T,A,T271A,H1N1,Exp mutagenesis,"> transmission GP/ferret, epistasis of PB2-T271A and HA-R226Q",,Zhang 2012 J Virol,22740390,10.1128/JVI.00958-12,
+PB2,271,T,A,T271A,H1N1,Exp mutagenesis,> replication at 34C,A/chicken/Nanchang/3-120/01 (H1N1),Hayashi 2015 J Virol,26018156,10.1128/jvi.00901-15,H1N1pdm w/ avPB2
+PB2,271,T,M,T271M,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,271,T,A,T271A,H5N1,"Observation, mammalian cases",,,Agüero 2023 Euro Surveill,36695488,10.2807/1560-7917.ES.2023.28.3.2300001,"Observed mammalian cases (mink), naturally occuring variant"
+PB2,271,T,A,T271A,H5N1,"Observation, mammalian cases",,,Lagan 2023 Euro Surveill,37855904,10.2807/1560-7917.ES.2023.28.42.2300526,"Observed mammalian cases (fox), naturally occuring variant"
+PB2,271,T,A,T271A,H5N1,Exp mutagenesis,"> virulence ferrets, transmission",A/mink/Spain/3691-8_22VIR10586-10/2022 (H5N1),Restori 2024 Nat Commun,38750016,10.1038/s41467-024-48475-y,huH5N1 2.3.4.4b in mink
+PB2,271,T,A,T271A,H7N9,Exp mutagenesis,"> virulence mice, > Pol",A/Shanghai/2/2013 (H7N9),Mok 2014 J Virol,24403592,10.1128/JVI.02740-13,
+PB2,271,T,A,T271A,,Exp mutagenesis,ANP32 interaction,,Peacock 2023 J Virol,37074204,10.1128/jvi.00213-23,
+PB2,274,A,T,A274T,H5N6,Exp infection,> replication mice,A/Bean goose/South Korea/KNU18-6/2018 (H5N6),Nguyen 2020 Viruses,32709116,10.3390/v12070774,"Naturally occuring variants, H5N6, South Korea, 2018"
+PB2,286,S,G,S286G,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,286,S,G,S286G,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,288,Q,R,Q288R,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+PB2,292,I,V,I292V,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+PB2,292,I,V,I292V,H10N8,Exp mutagenesis,"> Pol, > virulence mice",,Xiao 2016 Sci Rep,26782141,10.1038/srep19474,
+PB2,292,I,V,I292V,H9N2,Exp mutagenesis,"> Pol, < interferon, > virulence mice",A/chicken/Shandong/lx1023/2007 (H9N2) [Lx1023],Gao 2019 J Gen Virol,31305236,10.1099/jgv.0.001294,
+PB2,292,I,V,I292V,H10N8,Exp mutagenesis,"> Pol, minigenome exp",A/chicken/Jiangxi/102/2013 (H10N8),Li 2022 Transbound Emerg Dis,34008327,10.1111/tbed.14157,
+PB2,292,V,I,V292I,H5N1,"Observation, mammalian cases",,,Cronk 2023 Emerg Microbes Infect,37589241,10.1080/22221751.2023.2249554,
+PB2,308,V,M,V308M,H6N6,Mouse adaptation,> virulence mice,A/duck/Hubei/5/2010 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+PB2,309,D,N,D309N,H1N1,Mouse adaptation,"> virulence mice, >Pol, contact transmission GP",,Hu 2022 Vet Microbiol,34963076,10.1016/j.vetmic.2021.109314,"swH1N1, pdm09 genotype (Zhao 2011 PLoS Pathog)"
+PB2,309,G,D,G309D,H5N1,Mouse adaptation,"> Pol, > virulence mice",A/wild duck/Hunan/021/2005 (H5N1),Li 2009 Virus Res,19393699,10.1016/j.virusres.2009.04.008,"MA, P15"
+PB2,318,K,R,K318R,H3N8,Observation,"> Pol, > replication",A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+PB2,323,F,L,F323L,H3N2,Mouse adaptation,> replication mice,A/Switzerland/9715293/2013 (H3N2),Choi 2020 PLoS One,31917822,10.1371/journal.pone.0227516,
+PB2,323,F,L,F323L,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,323,F,S,F323S,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,323,F,V,F323V,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,332,L,R,L332R,H7N9,Cell culture adaptation,,A/Taiwan/1/2013 (H7N9),Huang 2017 Sci Rep,28900138,10.1038/s41598-017-10749-5,"Passage adaptation in hAECs, huH7N9"
+PB2,333,T,I,T333I,H7N7,Mouse adaptation,> virulence mice,A/Seal/Massachussetts/1/80 (H7N7),Gabriel 2005 Proc Natl Acad Sci U S A,16339318,10.1073/pnas.0507415102,
+PB2,339,K,T,K339T,H5N1,Exp mutagenesis,"> Pol, > virulence mice",A/duck/Vietnam/TY165/2010 (H5N1),Fan 2014 Nat Commun,25289523,10.1038/ncomms6021,Observed human case (A/Xinjiang/1/2009)
+PB2,343,K,E,K343E,H1N1,Observation,> virulence mice,,Wang 2025 Viruses,40733634,10.3390/v17071018,"Naturally occuring variants, swH1N1, China"
+PB2,344,V,M,V344M,H5N1,Exp mutagenesis,"> Pol, minigenome exp, > replication, often in combination",,Arai 2018 Sci Rep,30166556,10.1038/s41598-018-31397-3,From huH5N1 cases
+PB2,357,H,N,H357N,H1N1,Mouse adaptation,"> virulence mice, > Pol",A/Sichuan/1/2009 (H1N1),Zhu 2012 PLoS One,22438920,10.1371/journal.pone.0033383,
+PB2,358,V,E,V358E,H7N3,Exp mutagenesis,> virulence mice,,DesRochers 2016 Virology,27105450,10.1016/j.virol.2016.04.013,Variant avH7 pathogenesis
+PB2,368,R,K,R368K,H5N1,Exp mutagenesis,> virulence mice (w PB2-E627K),,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+PB2,385,I,L,I385L,H7N4,"Observation, human cases",,,Gao 2018 J Infect,30017611,10.1016/j.jinf.2018.07.005,"Observed human case, Jiangsu, 2017"
+PB2,389,K,R,K389R,H3N8,Observation,"> Pol, > replication",A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+PB2,389,K,R,K389R,H7N9,Exp mutagenesis,"> Pol, > replication",A/Anhui/1/2013 (H7N9),Hu 2017 Virology,27889648,10.1016/j.virol.2016.11.008,
+PB2,404,F,L,F404L,H9N2,Mouse adaptation,> virulence mice,A/duck/Jiangsu/1/2008 (H9N2),Liu 2014 Arch Virol,24696271,10.1007/s00705-014-2062-y,
+PB2,408,D,E,D408E,H3N8,Mouse adaptation,> virulence mice,A/gallinula/Guangzhou/A1/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+PB2,448,N,S,N448S,H3N8,Mouse adaptation,> virulence mice,A/gallinula/Guangzhou/A1/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+PB2,473,T,M,T473M,H7N9,Exp mutagenesis,"> virulence mice, > Pol, ANP32A interaction",A/Shanghai2/4664T/2013 (H7N9),Zhang 2024 J Virol,38421166,10.1128/jvi.01944-23,
+PB2,475,L,M,L475M,H1N1,"Observation, human cases",,,Taubenberger 2005 Nature,16208372,10.1038/nature04230,Discovery of 1918 H1N1 variants of polymerase genes
+PB2,477,R,G,R477G,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+PB2,477,R,G,R477G,H3N8,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+PB2,477,R,G,R477G,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+PB2,482,K,R,K482R,H1N1,Mouse adaptation,> virulence mice,A/FM/1/47 (H1N1),Brown 1999 Virus Res,10426210,10.1016/s0168-1702(99)00027-1,
+PB2,483,M,K,M483K,H7N9,Mouse adaptation,> virulence mice,A/Anhui/1/2013 (H7N9),Chan 2020 Viruses,31948040,10.3390/v12010065,"H7N9-PBC, P1"
+PB2,489,S,P,S489P,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,489,S,P,S489P,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,489,S,P,S489P,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,495,I,V,I495V,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+PB2,495,I,V,I495V,H3N8,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+PB2,495,I,V,I495V,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+PB2,504,I,V,I504V,H1N1,Mouse adaptation,> virulence mice,,Rolling 2009 J Virol,19403683,10.1128/jvi.00212-09,hvPR8 (in Mx1+ mice)
+PB2,507,Q,R,Q507R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,526,K,R,K526R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,526,K,R,K526R,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,526,K,R,K526R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,526,K,R,K526R,H7N9,Exp mutagenesis,"> Pol, minigenome exp, > replication, > virulence (dual PB2-526R-627K)",A/Zhejiang/DTID-ZJU01/2013 (H7N9),Song 2014 Nat Commun,25409547,10.1038/ncomms6509,
+PB2,526,K,R,K526R,H9N2,Exp mutagenesis,"> Pol, PB2-E627V-K526R-E543D-A655V",A/chicken/Egypt/CL42/2013 (H9N2),Arai 2019 PLoS Pathog,31265471,10.1371/journal.ppat.1007919,
+PB2,526,K,R,K526R,H9N2,Exp mutagenesis,"> Pol, > replication, w/ PB2-A588V",,Elgendy 2021 J Gen Virol,34061017,10.1099/jgv.0.001612,
+PB2,534,S,F,S534F,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,534,S,F,S534F,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,535,M,T,M535T,H5N1,Exp mutagenesis,> Pol,A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,535,M,L,M535L,H7N9,Exp mutagenesis,> replication by RNP reporter (627E background),A/Anhui/1/2013 (H7N9),Chen 2016 PLoS One,26845764,10.1371/journal.pone.0148432,
+PB2,535,M,I,M535I,H5N1,"Observation, mammalian cases",,,Lagan 2023 Euro Surveill,37855904,10.2807/1560-7917.ES.2023.28.42.2300526,Observed mammalian cases (fox)
+PB2,543,E,D,E543D,H9N2,Exp mutagenesis,"> Pol, PB2-E627V-K526R-E543D-A655V",A/chicken/Egypt/CL42/2013 (H9N2),Arai 2019 PLoS Pathog,31265471,10.1371/journal.ppat.1007919,
+PB2,567,D,N,D567N,H1N1,"Observation, human cases",,,Taubenberger 2005 Nature,16208372,10.1038/nature04230,Discovery of 1918 H1N1 variants of polymerase genes
+PB2,578,E,D,E578D,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+PB2,588,A,I,A588I,H1N1,Exp mutagenesis,> replication,PR8 (H1N1),Foeglein 2011 J Gen Virol,21471313,10.1099/vir.0.031492-0,
+PB2,588,A,V,A588V,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3 (A/chicken/Shandong/118/2023)"
+PB2,588,A,T,A588T,H5N1,Exp mutagenesis,"> Pol, > virulence mice",A/duck/Vietnam/TY165/2010 (H5N1),Fan 2014 Nat Commun,25289523,10.1038/ncomms6021,Observed human case (A/Xinjiang/1/2009)
+PB2,588,A,V,A588V,H7N9,Exp mutagenesis,"> Pol, > virulence mice",A/chicken/Guangdong/G1/2013 (H7N9) and A/Guangdong/GH074/2013 (H7N9),Xiao 2016 Sci Rep,26782141,10.1038/srep19474,
+PB2,588,A,V,A588V,H9N2,Exp mutagenesis,"> Pol, > virulence mice",A/chicken/Guangdong/V/2008 (H9N2),Xiao 2016 Sci Rep,26782141,10.1038/srep19474,
+PB2,588,A,V,A588V,H10N8,Exp mutagenesis,"> Pol, > virulence mice",A/Jiangxi-Donghu/346-1/2013 (H10N8),Xiao 2016 Sci Rep,26782141,10.1038/srep19474,
+PB2,588,A,V,A588V,H7N9,Exp infection,"> virulence mice, > virulence ferrets, ferret transmission",A/Guangdong/17SF003/2016 (H7N9),Imai 2017 Cell Host Microbe,29056430,10.1016/j.chom.2017.09.008,From fatal huH7N9 cases
+PB2,588,A,V,A588V,H9N2,Exp mutagenesis,"> Pol, > replication",,Elgendy 2021 J Gen Virol,34061017,10.1099/jgv.0.001612,
+PB2,588,A,V,A588V,H10N8,Exp mutagenesis,"> virulence mice, > transmission chickens",A/chicken/Jiangxi/102/2013 (H10N8),Li 2022 Transbound Emerg Dis,34008327,10.1111/tbed.14157,
+PB2,588,A,V,A588V,H10N8,Exp mutagenesis,"> Pol, minigenome exp",A/chicken/Jiangxi/102/2013 (H10N8),Li 2022 Transbound Emerg Dis,34008327,10.1111/tbed.14157,
+PB2,588,T,I,T588I,H1N1,Exp mutagenesis,"> virulence mice, > Pol",A/Mexico/4486/2009 (H1N1),Zhao 2014 J Virol,24335306,10.1128/JVI.03024-13,Natural variant of PB2 H1N1pdm09
+PB2,590,G,S,G590S,H5N1,Exp mutagenesis,> Pol,A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,590,G,S,G590S,H1N1,Exp mutagenesis,"> Pol, > replication, PB2-627K-590S-591R (SR)",,Mehle 2009 Proc Natl Acad Sci U S A,19995968,10.1073/pnas.0911915106,
+PB2,590,[A],S,X590S,H1N1,Exp mutagenesis,"> replication, in combination: 271A/590S/591R",,Liu 2012 J Virol,22072752,10.1128/JVI.05699-11,PB2 of SIV/H1N1pdm09
+PB2,590,S,R,S590R,H9N2,Mouse adaptation,> virulence mice,A/quail/Hong Kong/G1/1997 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+PB2,591,Q,R,Q591R,H1N1,Exp mutagenesis,"> Pol, > replication, PB2-627K-590S-591R (SR)",,Mehle 2009 Proc Natl Acad Sci U S A,19995968,10.1073/pnas.0911915106,
+PB2,591,Q,R,Q591R,H1N1,Exp mutagenesis,> replication,A/California/04/2009 (H1N1),Yamada 2010 PLoS Pathog,20700447,10.1371/journal.ppat.1001034,
+,,,,Q591K,H5N1,Exp mutagenesis,"> replication, > virulence mice",A/chicken/Indonesia/UT3091/05 (H5N1),Yamada 2010 PLoS Pathog,20700447,10.1371/journal.ppat.1001034,"From huH5N1 case, A/Indonesia/UT3006/05 (H5N1)"
+PB2,591,Q,K,Q591K,H5N1,Exp mutagenesis,"> virulence mice, > Pol, > replication","A/Muscovy duck/Vietnam/TY93/2007 (H5N1), RG reassortant w/ WSN",Taft 2015 Nat Commun,26082035,10.1038/ncomms8491,"Mutagenesis of Pol genes of H5N1 isolate, recombinant with WSN HA/NA"
+PB2,591,Q,K,Q591K,H5N1,"Observation, mammalian cases",> pathogenesis,,Rimondi 2023 Emerg Infect Dis,38413243,10.3201/eid3004.231725,South American fur seals
+PB2,591,Q,K,Q591K,H5N1,"Observation, mammalian cases",,,Pardo-Roa 2025 Nat Commun,40044729,10.1038/s41467-025-57338-z,"Naturally occuring variants, H5N1 2.3.4.4b, Chile, 2022-2023"
+PB2,591,Q,K,Q591K,H5N2,Mouse adaptation,> virulence mice,A/chicken/Hebei/1102/2010 (H5N2),Li 2014 Vet Microbiol,25037995,10.1016/j.vetmic.2014.06.018,
+PB2,591,Q,K,Q591K,H7N9,Exp mutagenesis,"> virulence mice, > Pol",A/Shanghai/2/2013 (H7N9),Mok 2014 J Virol,24403592,10.1128/JVI.02740-13,
+PB2,591,Q,K,Q591K,H7N9,Exp mutagenesis,> replication by RNP reporter (627E background),A/Anhui/1/2013 (H7N9),Chen 2016 PLoS One,26845764,10.1371/journal.pone.0148432,
+PB2,591,Q,K,Q591K,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,591,Q,K,Q591K,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,591,Q,K,Q591K,H9N2,Exp mutagenesis,"> Pol, > replication, > virulence mice",,Mok 2011 J Virol,21734052,10.1128/JVI.00702-11,
+PB2,591,Q,K,Q591K,H9N2,Exp mutagenesis,"> Pol, > replication, virulence mice (w/ 627K)",A/quail/Hong Kong/G1/1997 (H9N2),Wang 2016 PLoS One,27684944,10.1371/journal.pone.0162163,
+PB2,591,[A],R,X591R,H1N1,Exp mutagenesis,"> replication, in combination: 271A/590S/591R",,Liu 2012 J Virol,22072752,10.1128/JVI.05699-11,PB2 of SIV/H1N1pdm09
+PB2,591,Q,R,Q591R,H5N1,Exp mutagenesis,"> Pol, > replication",A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,591,Q,R,Q591R,,Exp mutagenesis,ANP32 interaction,,Peacock 2023 J Virol,37074204,10.1128/jvi.00213-23,
+PB2,598,T,I,T598I,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+PB2,598,V,T,V598T,H3N8,Observation,"> Pol, > replication",A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+PB2,598,V,T,V598T,H7N9,Exp mutagenesis,"> Pol, > replication, > virulence mice",A/Anhui/1/2013 (H7N9),Hu 2017 Virology,27889648,10.1016/j.virol.2016.11.008,
+PB2,598,T,M,T598M,H10N8,Exp mutagenesis,"> Pol, minigenome exp",A/chicken/Jiangxi/102/2013 (H10N8),Li 2022 Transbound Emerg Dis,34008327,10.1111/tbed.14157,
+PB2,602,Q,A,Q602A,H1N1,Exp mutagenesis,"> virulence mice, > replication",WSN,Wang 2025 PLoS Pathog,41129599,10.1371/journal.ppat.1013630,"Loss of TRIM45 degradation, H1N1 (WSN)"
+PB2,615,I,T,I615T,H7N1,Mouse adaptation,> virulence mice,A/Baer’s Pochard/HuNan/414/2010 (H7N1),Yu 2015 Virology,25555151,10.1016/j.virol.2014.11.031,
+PB2,616,V,I,V616I,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P2"
+PB2,622,A,T,A622T,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+PB2,627,E,K,E627K,H3N2,Exp reassortment,"> Pol, > replication, > virulence mice",,Subbarao 1993 J Virol,8445709,10.1128/JVI.67.4.1761-1764.1993,avPB2 reassortant into huH3N2
+PB2,627,E,K,E627K,H1N1,"Observation, human cases",,,Taubenberger 2005 Nature,16208372,10.1038/nature04230,Discovery of 1918 H1N1 variants of polymerase genes
+PB2,627,E,K,E627K,,,,,Mehle 2008 Cell Host Microbe,18692771,10.1016/j.chom.2008.06.007,
+PB2,627,E,K,E627K,H1N1,Exp mutagenesis,"> Pol, > replication, PB2-627K-590S-591R (SR)",,Mehle 2009 Proc Natl Acad Sci U S A,19995968,10.1073/pnas.0911915106,
+PB2,627,E,K,E627K,H1N1,RNAi Screen,,WSN,Bortz 2011 mBio,21846828,10.1128/mBio.00151-11,"RNAi screen for host factors, H1N1 (WSN)"
+PB2,627,E,K,E627K,H1N1,Exp mutagenesis,"> Pol, > replication",WSN,Nilsson 2017 J Virol,28122973,10.1128/jvi.02467-16,
+PB2,627,E,K,E627K,,,ANP32 interaction,,Long 2016 Nature,26738596,10.1038/nature16474,
+PB2,627,E,K,E627K,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,627,E,K,E627K,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,627,E,K,E627K,H4N6,Mouse adaptation,"> Pol, > virulence mice",A/mallard/Beijing/21/2011 (H4N6),Xu 2020 J Gen Virol,31081750,10.1099/jgv.0.001192,
+PB2,627,E,K,E627K,H5N1,Exp reassortment,> virulence mice,A/Hong Kong/483/97 and A/Hong Kong/486/97,Hatta 2001 Science,11546875,10.1126/science.1062882,"Exp mutagenesis by reassortment, huH5N1 "
+PB2,627,E,K,E627K,H5N1,Exp mutagenesis,> virulence mice,A/Hong Kong/483/97 and A/Hong Kong/486/97,Shinya 2004 Virology,15016548,10.1016/j.virol.2003.11.030,
+PB2,627,E,K,E627K,H5N1,Mouse adaptation,> virulence mice,A/chicken/Yamaguchi/7/2004 (H5N1),Mase 2006 J Gen Virol,17098982,10.1099/vir.0.81843-0,"MA, P1"
+PB2,627,E,K,E627K,H5N1,,"> replication mice, > virulence mice",,Hatta 2007 PLoS Pathog,17922570,10.1371/journal.ppat.0030133,
+PB2,627,E,K,E627K,H5N1,"Observation, human cases","Observed human cases, fatal",,Le 2009 J Virol,19264775,10.1128/jvi.00063-09,"Naturally occuring variants, huH5N1 cases, Vietnam, 2003-2004"
+PB2,627,E,K,E627K,H5N1,Exp mutagenesis,> virulence mice,,Kim 2010 J Gen Virol,20016035,10.1099/vir.0.018143-0,
+PB2,627,E,K,E627K,H5N1,RNAi Screen,Varied host factor interactions,A/Viet Nam/1203/2004 (H5N1),Bortz 2011 mBio,21846828,10.1128/mBio.00151-11,"RNAi screen for host factors, H5N1"
+PB2,627,E,K,E627K,H5N1,Observation,,A/turkey/Turkey/5/2005 (H5N1),Long 2013 J Virol,23843645,10.1128/jvi.01399-13,"Naturally occuring (stable) variants,  Eurasian 2.2 clade, avH5N1, Turkey, 2005"
+PB2,627,E,K,E627K,H5N1,Exp mutagenesis,"> virulence mice, > Pol, > replication","A/Muscovy duck/Vietnam/TY93/2007 (H5N1), RG reassortant w/ WSN",Taft 2015 Nat Commun,26082035,10.1038/ncomms8491,"Mutagenesis of Pol genes of H5N1 isolate, recombinant with WSN HA/NA"
+PB2,627,E,K,E627K,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,627,E,K,E627K,H5N1,"Observation, human cases",,A/Texas/37/2024 (H5N1),Garg 2024 MMWR Morb Mortal Wkly Rep,38814843,10.15585/mmwr.mm7321e1,"Naturally occuring variants, huH5N1 2.3.4.4b bovine G3.13 case (A/Texas/37/2024)"
+PB2,627,E,K,E627K,H5N1,Mouse adaptation,> virulence mice,A/spot-billed duck/Korea/K22-862-1/2022 (H5N1),Kim 2025 Virol J,40474192,10.1186/s12985-025-02811-w,H5N1 2.3.4.4b
+PB2,627,E,K,E627K,H5N1,"Observation, mammalian cases",,,Amano 2025 Emerg Microbes Infect,41152009,10.1080/22221751.2025.2582252,"Naturally occuring variants, Tiger, H5N1 2.3.2.1e, Cambodia, 2024"
+PB2,627,E,K,E627K,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+PB2,627,E,K,E627K,H5N2,Mouse adaptation,> virulence,A/duck/Zhejiang/6DK19/2013 (H5N2),Wu 2016 Virol J,27663652,10.1186/s12985-016-0612-5,
+PB2,627,E,K,E627K,H5N2,Mouse adaptation,> virulence mice,A/Aquatic Bird/Korea/CN2/2009 (H5N2),Nam 2017 Arch Virol,28664296,10.1007/s00705-017-3451-9,
+PB2,627,E,K,E627K,H5N6,Mouse adaptation,> virulence mice,A/Northern Shoveler/Ningxia/488-53/2015 (H5N6),Zhang 2017 Front Microbiol,28966609,10.3389/fmicb.2017.01763,
+PB2,627,E,K,E627K,H5N6,Mouse adaptation,> virulence mice,A/duck/Zhejiang/6D2/2013 (H5N6),Peng 2018 Front Microbiol,29593694,10.3389/fmicb.2018.00453,
+PB2,627,E,K,E627K,H5N8,Mouse adaptation,> virulence mice,A/Environment/Korea/W468/2015 (H5N8),Choi 2017 Sci Rep,28094780,10.1038/srep40667,
+PB2,627,E,K,E627K,H5N8,Mouse adaptation,> virulence mice,A/duck/Zhejiang/W24/2013 (H5N8),Wu 2017 Infect Genet Evol,28750900,10.1016/j.meegid.2017.07.026,
+PB2,627,E,K,E627K,H6N1,Mouse adaptation,> virulence mice,A/Mallard/SanJiang/275/2007 (H6N1),Yu 2014 Vet Microbiol,25457364,10.1016/j.vetmic.2014.09.032,
+PB2,627,E,K,E627K,H6N1,Mouse adaptation,> virulence mice,A/chicken/Zhejiang/1664/2017 (H6N1),Wu 2019 Infect Genet Evol,31200112,10.1016/j.meegid.2019.103918,
+PB2,627,E,K,E627K,H6N2,Mouse adaptation,"> virulence mice, > Pol",A/wild bird/Liaoning/DD535/2021 (H6N2),Tang 2024 Viruses,38543722,10.3390/v16030357,"MA, P1"
+PB2,627,E,K,E627K,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P4"
+PB2,627,E,K,E627K,H6N6,Mouse adaptation,> virulence,A/swine/Guangdong/K6/2010 (H6N6),Tan 2014 J Virol,25275121,10.1128/JVI.01736-14,
+PB2,627,E,K,E627K,H7N1,Mouse adaptation,> virulence mice,A/Baer’s Pochard/HuNan/414/2010 (H7N1),Yu 2015 Virology,25555151,10.1016/j.virol.2014.11.031,
+PB2,627,E,K,E627K,H7N4,"Observation, human cases",,,Gao 2018 J Infect,30017611,10.1016/j.jinf.2018.07.005,"Observed human case, Jiangsu, 2017, naturally occuring variants"
+PB2,627,E,K,E627K,H7N7,Mouse adaptation,> virulence mice,A/equine/London/1416/73 (H7N7),Shinya 2007 J Gen Virol,17251573,10.1099/vir.0.82411-0,
+PB2,627,E,K,E627K,H7N7,Exp mutagenesis,"> Pol, > replication",A/Netherlands/33/03 (H7N7) and A/Netherlands/219/03 (H7N7),de Wit 2010 J Virol,19939933,10.1128/JVI.01783-09,From huH7N7 cases
+PB2,627,E,K,E627K,H7N7,Mouse adaptation,> virulence mice,A/ch/Netherlands/621557/03 (H7N7),de Jong 2013 Virol J,24007444,10.1186/1743-422X-10-276,
+PB2,627,E,K,E627K,H7N7,Mouse adaptation,> virulence mice,A/Lesser White-fronted Goose/HuNan/412/2010 (H7N7),Chen 2015 Vet Microbiol,25769645,10.1016/j.vetmic.2015.02.016,
+PB2,627,E,K,E627K,H7N9,Exp mutagenesis,"> Pol, minigenome exp, > replication, > virulence (dual PB2-526R-627K)",A/Zhejiang/DTID-ZJU01/2013 (H7N9),Song 2014 Nat Commun,25409547,10.1038/ncomms6509,
+PB2,627,E,K,E627K,H7N9,Exp mutagenesis,"> virulence mice, > Pol",A/Anhui/1/2013 (H7N9),Zhang 2014 J Gen Virol,24394699,10.1099/vir.0.061721-0,
+PB2,627,E,K,E627K,H7N9,Exp mutagenesis,"> virulence mice, > Pol",A/Shanghai/2/2013 (H7N9),Mok 2014 J Virol,24403592,10.1128/JVI.02740-13,
+PB2,627,E,K,E627K,H7N9,"Observation, human cases",,,Zou 2018 J Infect Dis,29688498,10.1093/infdis/jiy217,Mutation dynamics in huH7N9 cases
+PB2,627,E,K,E627K,H7N9,"Observation, human cases",,,Liu 2020 Proc Natl Acad Sci U S A,32873642,10.1073/pnas.2013267117,"Intrahost evolution in patient longitudinal sampling (14-49), China, 2014"
+PB2,627,E,K,E627K,H7N9,Mouse adaptation,"> virulence mice, GP airborne transmission",A/environment/Hebei/621/2019 (H7N9),Zhang 2021 Front Cell Infect Microbiol,34164347,10.3389/fcimb.2021.688007,"Sampled, China, 2019"
+PB2,627,E,K,E627K,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+PB2,627,E,K,E627K,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Hubei/01/1999 (H9N2),Zhang 2011 Infect Genet Evol,21896338,10.1016/j.meegid.2011.07.025,LPAI H9N2
+PB2,627,E,K,E627K,H9N2,Mouse adaptation,"> replication mice, > virulence mice","A/chicken/Shandong/16/05 (H9N2), w/ M147L vir",Wang 2012 PLoS One,22808250,10.1371/journal.pone.0040752,
+PB2,627,E,K,E627K,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,LPAI H9N2
+PB2,627,E,K,E627K,H9N2,Mouse adaptation,"> virulence mice, > Pol",A/Chicken/Shandong/Li-2/2010 (H9N2),Sang 2015 Arch Virol,25782865,10.1007/s00705-015-2383-5,
+PB2,627,E,K,E627K,H9N2,Exp mutagenesis,"> Pol, > virulence mice (when PB2 mut together)",A/quail/Shantou/2061/2000 (H9N2),Sediri 2016 J Gen Virol,26560088,10.1099/jgv.0.000333,
+PB2,627,E,K,E627K,H9N2,Mouse adaptation,> virulence mice,A/Hong Kong/1073/99 (H9N2),Kamiki 2018 Viruses,30463209,10.3390/v10110653,
+PB2,627,E,K,E627K,H10N7,Mouse adaptation,> virulence mice,A/chicken/Zhejiang/2CP8/2014 (H10N7),Wu 2016 Arch Virol,26699787,10.1007/s00705-015-2722-6,
+PB2,627,E,K,E627K,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P4"
+PB2,627,E,K,E627K,H10N8,Mouse adaptation,> virulence mice,A/environment/Dongting Lake/Hunan/3-9/2007 (H10N8),Mei 2016 Infect Genet Evol,26477933,10.1016/j.meegid.2015.10.016,
+PB2,627,E,V,E627V,H5N1,Exp mutagenesis,"> virulence mice, > Pol, > replication","A/Muscovy duck/Vietnam/TY93/2007 (H5N1), RG reassortant w/ WSN",Taft 2015 Nat Commun,26082035,10.1038/ncomms8491,"Mutagenesis of Pol genes of H5N1 isolate, recombinant with WSN HA/NA"
+PB2,627,E,V,E627V,H9N2,Exp mutagenesis,"> Pol, PB2-E627V-K526R-E543D-A655V",A/chicken/Egypt/CL42/2013 (H9N2),Arai 2019 PLoS Pathog,31265471,10.1371/journal.ppat.1007919,
+PB2,627,E,V,E627V,H10N3,Exp infection,"> virulence mice, > Pol",,Song 2025 Vet Res,40484971,10.1186/s13567-025-01534-8,"Naturally occuring variants, avH10N3, China, 2024"
+PB2,631,M,L,M631L,H5N1,"Observation, mammalian cases",> Pol,,Gu 2024 Nature,39467571,10.1038/s41586-024-08254-7,"Naturally occuring variants, H5N1 2.3.4.4b bovine G3.13 "
+PB2,631,M,L,M631L,H5N1,Observation,,,Staller 2024 Nat Commun,38750014,10.1038/s41467-024-48470-3,Structural analysis of avH5N1 RNP w/ huANP32B
+PB2,631,M,L,M631L,H5N1,"Observation, mammalian cases",,,Oguzie 2024 Emerg Infect Dis,38848249,10.3201/eid3007.240717,"Naturally occuring variants, H5N1 2.3.4.4b bovine G3.13 "
+PB2,631,M,L,M631L,H5N1,"Observation, mammalian cases",,,Nguyen 2025 Science,40273240,10.1126/science.adq0900,"Naturally occuring variants, H5N1 2.3.4.4b bovine G3.13 "
+PB2,631,M,L,M631L,H5N1,"Observation, human cases",,A/Michigan/90/2024 (H5N1),Brock 2025 Emerg Infect Dis,40314761,10.3201/eid3106.250386,"Naturally occuring variants, huH5N1 2.3.4.4b bovine G3.13 case (A/Michigan/90/2024)"
+PB2,631,M,L,M631L,H9N2,Poultry adaptation,> Pol,A/chicken/Pakistan/UDL01/08 (H9N2),Idoko-Akoh 2023 Nat Commun,37816720,10.1038/s41467-023-41476-3,Passage adaptation in ANP32A-/- chickens
+PB2,631,M,L,M631L,H10N7,Mouse adaptation,"> virulence mice, > Pol",A/mallard/Beijing/27/2011 (H10N7),Zhang 2017 J Gen Virol,28597818,10.1099/jgv.0.000770,
+PB2,636,L,F,L636F,H1N1,Exp mutagenesis,> replication,PR8 (H1N1),Foeglein 2011 J Gen Virol,21471313,10.1099/vir.0.031492-0,
+PB2,636,L,F,L636F,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,636,L,F,L636F,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,647,I,L,I647L,H1N2,Mouse adaptation,> virulence mice,A/black-necked crane/Zhaotong/ZT-12/2013 (H1N2),Yu 2017 Vet Microbiol,28757046,10.1016/j.vetmic.2017.06.009,
+PB2,649,L,Y,L649Y,H7N1,Cell culture adaptation,,A/ostrich/Zimbabwe/222-E3/1996 (H7N1),Ninpan 2017 Virus Res,28579356,10.1016/j.virusres.2017.05.021,Passage adaptation in A549
+PB2,655,A,V,A655V,H9N2,Exp mutagenesis,"> Pol, PB2-E627V-K526R-E543D-A655V",A/chicken/Egypt/CL42/2013 (H9N2),Arai 2019 PLoS Pathog,31265471,10.1371/journal.ppat.1007919,
+PB2,658,Y,H,Y658H,H5N1,Exp mutagenesis,"> Pol, minigenome exp, > replication, often in combination",,Arai 2018 Sci Rep,30166556,10.1038/s41598-018-31397-3,From huH5N1 cases
+PB2,660,K,R,K660R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,660,K,R,K660R,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,661,V,A,V661A,H1N1,Exp mutagenesis,> replication at 34C,A/chicken/Nanchang/3-120/01 (H1N1),Hayashi 2015 J Virol,26018156,10.1128/jvi.00901-15,
+PB2,676,T,M,T676M,H10N8,Exp mutagenesis,"> Pol, minigenome exp",A/chicken/Jiangxi/102/2013 (H10N8),Li 2022 Transbound Emerg Dis,34008327,10.1111/tbed.14157,
+PB2,677,E,A,E677A,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Welkers 2019 Emerg Microbes Infect,30866780,10.1080/22221751.2019.1575700,From huH5N1 cases
+PB2,683,V,T,V683T,H1N1,Exp mutagenesis,> replication at 34C,A/chicken/Nanchang/3-120/01 (H1N1),Hayashi 2015 J Virol,26018156,10.1128/jvi.00901-15,
+PB2,684,A,S,A684S,H1N1,Exp mutagenesis,> replication at 34C,A/chicken/Nanchang/3-120/01 (H1N1),Hayashi 2015 J Virol,26018156,10.1128/jvi.00901-15,H1N1pdm w/ avPB2
+PB2,684,A,S,A684S,H5N1,Exp mutagenesis,> Pol,A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,685,G,R,G685R,H9N2,Cell culture adaptation,> virulence mice,A/chicken/Saudi Arabia/CP7/98 (H9N2),Yang 2017 J Virol,28148793,10.1128/JVI.02125-16,"Swine airway line, P3"
+PB2,699,K,R,K699R,H1N1,Exp mutagenesis,"> replication, > virulence mice",WSN (H1N1),Zhang 2017 Sci Rep,28252002,10.1038/srep43691,"Mut reduces NEDDylation of PB2, increases virulence"
+PB2,701,D,N,D701N,H1N2,Mouse adaptation,> virulence mice,A/black-necked crane/Zhaotong/ZT-12/2013 (H1N2),Yu 2017 Vet Microbiol,28757046,10.1016/j.vetmic.2017.06.009,
+PB2,701,D,N,D701N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+PB2,701,D,N,D701N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+PB2,701,D,N,D701N,H3N2,Mouse adaptation,> virulence mice,A/baikal teal/Shanghai/SH-89/2013 (H3N2),Yu 2017 Vet Microbiol,28757037,10.1016/j.vetmic.2017.05.020,
+PB2,701,D,N,D701N,H3N2,Mouse adaptation,> virulence mice,A/baikal teal/Shanghai/SH-89/2013 (H3N2),Yu 2019 Virus Res,31173771,10.1016/j.virusres.2019.06.002,
+PB2,701,D,N,D701N,H3N8,Mouse adaptation,> virulence mice,A/gallinula/Guangzhou/A1/2017 (H3N8),Liang 2022 Viruses,35632838,10.3390/v14051097,
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,> virulence mice,A/duck/Guangxi/35/2001 (H5N1),Li 2005 J Virol,16140781,10.1128/jvi.79.18.12058-12064.2005,
+PB2,701,D,N,D701N,H5N1,"Observation, human cases",,,Le 2009 J Virol,19264775,10.1128/jvi.00063-09,"Naturally occuring variants, huH5N1 cases, Vietnam, 2003-2004"
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,GP transmission,A/Viet Nam/1203/04 (H5N1),Steel 2009 PLoS Pathog,19119420,10.1371/journal.ppat.1000252,
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,> transmission GP,A/duck/Guangxi/35/2001 (H5N1) and A/bar-headed goose/Qinghai/3/2005 (H5N1),Gao 2009 PLoS Pathog,20041223,10.1371/journal.ppat.1000709,
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,> interaction with importin alpha,,Boivin 2011 J Biol Chem,21216958,10.1074/jbc.M110.182964,"Recombinant PB2-NLS: huH3N2-NLS (A/Victoria/3/1975), avH5N1-NLS (A/duck/Shantou/4610/2003)"
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,"> Pol, > replication, > virulence mice",A/Thailand/1(Kan-1)/04 (H5N1),Czudai-Matwich 2014 J Virol,24899203,10.1128/JVI.00422-14,From huH5N1 cases
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,"> virulence mice, > Pol, > replication","A/Muscovy duck/Vietnam/TY93/2007 (H5N1), RG reassortant w/ WSN",Taft 2015 Nat Commun,26082035,10.1038/ncomms8491,"Mutagenesis of Pol genes of H5N1 isolate, recombinant with WSN HA/NA"
+PB2,701,D,N,D701N,H5N1,"Observation, mammalian cases",,,Pardo-Roa 2025 Nat Commun,40044729,10.1038/s41467-025-57338-z,"Naturally occuring variants, H5N1 2.3.4.4b, Chile, 2022-2023"
+PB2,701,D,N,D701N,H5N2,Mouse adaptation,> virulence mice,A/chicken/Hebei/1102/2010 (H5N2),Li 2014 Vet Microbiol,25037995,10.1016/j.vetmic.2014.06.018,
+PB2,701,D,N,D701N,H5N8,Mouse adaptation,> virulence mice,Mallard duck/Korea/W452/2014 (H5N8),Choi 2017 Sci Rep,28094780,10.1038/srep40667,
+PB2,701,D,N,D701N,H7N7,Mouse adaptation,"> virulence mice, > Pol",A/Seal/Massachussetts/1/80 (H7N7),Gabriel 2005 Proc Natl Acad Sci U S A,16339318,10.1073/pnas.0507415102,
+PB2,701,D,N,D701N,H7N7,Exp mutagenesis,"interaction with importin alpha1, w/ NP-E319K",,Gabriel 2008 PLoS Pathog,18248089,10.1371/journal.ppat.0040011,
+PB2,701,D,N,D701N,H7N9,Exp mutagenesis,"> virulence mice, > Pol",A/Shanghai/2/2013 (H7N9),Mok 2014 J Virol,24403592,10.1128/JVI.02740-13,
+PB2,701,D,N,D701N,H7N9,Exp mutagenesis,> replication by RNP reporter (627E background),A/Anhui/1/2013 (H7N9),Chen 2016 PLoS One,26845764,10.1371/journal.pone.0148432,
+PB2,701,D,N,D701N,H7N9,Observation,,,Zou 2018 J Infect Dis,29688498,10.1093/infdis/jiy217,Mutation dynamics in huH7N9 cases
+PB2,701,D,N,D701N,H7N9,Mouse adaptation,"> replication mice, alternate to E627K when ANP32 interaction lost",A/pigeon/Shanghai/S1421/2013 (H7N9),Liang 2019 mBio,31213560,10.1128/mBio.01162-19,Selection in ANP32-/- mice
+PB2,701,D,N,D701N,H9N2,Exp mutagenesis,"> Pol, > virulence mice (when PB2 mut together)",A/quail/Shantou/2061/2000 (H9N2),Sediri 2016 J Gen Virol,26560088,10.1099/jgv.0.000333,
+PB2,701,D,N,D701N,H9N2,Mouse adaptation,> virulence mice,A/chicken/Zhejiang/221/2016 (H9N2),Yang 2022 Arch Virol,35920981,10.1007/s00705-022-05536-1,
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,"> Pol, > replication",A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,701,D,N,D701N,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,701,D,N,D701N,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,701,D,N,D701N,,Exp mutagenesis,ANP32 interaction,,Peacock 2023 J Virol,37074204,10.1128/jvi.00213-23,
+PB2,701,D,V,D701V,H5N1,Exp mutagenesis,"> virulence mice, > Pol, > replication","A/Muscovy duck/Vietnam/TY93/2007 (H5N1), RG reassortant w/ WSN",Taft 2015 Nat Commun,26082035,10.1038/ncomms8491,"Mutagenesis of Pol genes of H5N1 isolate, recombinant with WSN HA/NA"
+PB2,702,K,R,K702R,H1N1,"Observation, human cases",,,Taubenberger 2005 Nature,16208372,10.1038/nature04230,Discovery of 1918 H1N1 variants of polymerase genes
+PB2,702,K,R,K702R,H5N1,Exp mutagenesis,> interaction with importin alpha,,Boivin 2011 J Biol Chem,21216958,10.1074/jbc.M110.182964,"Recombinant PB2-NLS: huH3N2-NLS (A/Victoria/3/1975), avH5N1-NLS (A/duck/Shantou/4610/2003)"
+PB2,702,K,R,K702R,H5N1,Exp mutagenesis,> Pol,A/turkey/England/50-92/91 (H5N1),Cauldwell 2013 J Virol,23115299,10.1128/JVI.02597-12,
+PB2,712,E,D,E712D,H1N1,Mouse adaptation,> virulence mice,,Katsura 2016 Sci Rep,26847414,10.1038/srep19933,Venus-PR8 (NS1 reporter)
+PB2,714,S,I,S714I,H5N1,Exp mutagenesis,"> Pol, > replication, > virulence mice",A/Thailand/1(Kan-1)/04 (H5N1),Czudai-Matwich 2014 J Virol,24899203,10.1128/JVI.00422-14,
+PB2,714,S,R,S714R,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,714,S,R,S714R,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,714,S,R,S714R,H7N7,Mouse adaptation,"> virulence mice, > Pol",A/Seal/Massachussetts/1/80 (H7N7),Gabriel 2005 Proc Natl Acad Sci U S A,16339318,10.1073/pnas.0507415102,
+PB2,714,S,R,S714R,H9N2,Exp mutagenesis,"> Pol, > virulence mice (when PB2 mut together)",A/quail/Shantou/2061/2000 (H9N2),Sediri 2016 J Gen Virol,26560088,10.1099/jgv.0.000333,
+PB2,714,S,R,S714R,H5N1,Exp mutagenesis,> interaction with importin alpha,,Boivin 2011 J Biol Chem,21216958,10.1074/jbc.M110.182964,"Recombinant PB2-NLS: huH3N2-NLS (A/Victoria/3/1975), avH5N1-NLS (A/duck/Shantou/4610/2003)"
+PB2,715,N,S,N715S,H5N1,Exp mutagenesis,"> virulence mice, > Pol",A/Duck/Guangdong/212/2004 (H5N1) and A/Quail/Guangdong/90/2004 (H5N1),Sun 2015 Front Microbiol,25713566,10.3389/fmicb.2015.00073,
+PB2,717,A,V,A717V,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+PB2,740,D,N,D740N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+PB2,740,D,N,D740N,H5N1,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH5N1 cases
+PB2,740,D,N,D740N,H7N9,Exp mutagenesis,"> Pol, minigenome exp",,Mänz 2016 J Virol,27076644,10.1128/JVI.00130-16,From huH7N9 cases
+PB2,740,D,N,D740N,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,LPAI H9N2
+PB2,740,D,N,D740N,,Exp mutagenesis,"> Pol, > replication, ANP32 interaction",,Peacock 2023 J Virol,37074204,10.1128/jvi.00213-23,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

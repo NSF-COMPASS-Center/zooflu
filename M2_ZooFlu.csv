@@ -1,0 +1,39 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+M2,10,H,L,H10L,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,16,E,G,E16G,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,18,K,N,K18N,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+M2,26,L,F,L26F,H1N1,Exp mutagenesis,amantadine resistance,WSN,Abed 2005 Antimicrob Agents Chemother,15673732,10.1128/AAC.49.2.556-559.2005,
+M2,26,L,I,L26I,H5N1,Observation,amantadine resistance,,Hurt 2007 Antiviral Res,17112602,10.1016/j.antiviral.2006.10.004,"Naturally occuring variants avian H5N1, South East Asia, 2004-2006"
+M2,27,V,A,V27A,H1N1,Exp mutagenesis,amantadine resistance,WSN,Abed 2005 Antimicrob Agents Chemother,15673732,10.1128/AAC.49.2.556-559.2005,
+M2,27,V,I,V27I,H3N8,Observation,,A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+M2,27,I,V,I27V,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,29,A,T,A29T,H1N1,Mouse adaptation,> virulence mice,A/California/07/2009 (H1N1),Slaine 2018 Viruses,29783694,10.3390/v10050272,
+M2,29,A,T,A29T,H9N2,Swine adaptation,> replication pigs,A/quail/Hong Kong/G1/1997 (H9N2),Mancera 2017 PLoS One,28384328,10.1371/journal.pone.0175267,Exp swine adaptation
+M2,30,A,T,A30T,H1N1,Exp mutagenesis,amantadine resistance,WSN,Abed 2005 Antimicrob Agents Chemother,15673732,10.1128/AAC.49.2.556-559.2005,
+M2,31,S,N,S31N,H1N1,Exp mutagenesis,amantadine resistance,WSN,Abed 2005 Antimicrob Agents Chemother,15673732,10.1128/AAC.49.2.556-559.2005,
+M2,31,S,N,S31N,H3N2,"Observation, human cases",amantadine resistance,,Baz 2006 Clin Infect Dis,17109288,10.1086/508777,"Case report, human immunocompromised child following treatment, seasonal H3N2 (A/California/7/2004-like), April 2005"
+M2,31,S,N,S31N,H3N3,Observation,amantadine resistance,A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+M2,31,S,N,S31N,H5N1,Observation,amantadine resistance,,Buranathai 2007 Avian Dis,17494553,10.1637/7594-040306r.1,"Naturally occuring variants avian H5N1, Thailand, 2004-2005"
+M2,31,S,N,S31N,H5N1,Observation,amantadine resistance,,Hurt 2007 Antiviral Res,17112602,10.1016/j.antiviral.2006.10.004,"Naturally occuring variants avian H5N1, South East Asia, 2004-2006"
+M2,31,S,N,S31N,H5N1,Observation,amantadine resistance,,He 2008 Antiviral Res,17897729,10.1016/j.antiviral.2007.08.007,"Naturally occuring variants avian H5N1, China, 2001-2005"
+M2,31,S,N,S31N,H5N1,Observation,amantadine resistance,,Boltz 2010 J Gen Virol,20016036,10.1099/vir.0.017459-0,"Naturally occuring variants avian and human H5N1, Lao PDR, 2006-2008"
+M2,32,V,I,V32I,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,34,G,E,G34E,H1N1,Exp mutagenesis,amantadine resistance,WSN,Abed 2005 Antimicrob Agents Chemother,15673732,10.1128/AAC.49.2.556-559.2005,
+M2,37,H,R,H37R,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,44,N,D,N44D,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+M2,44,N,D,N44D,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+M2,78,K,R,K78R,H1N1,Exp mutagenesis,"> virulence mice, MARCH8-evasion",PR8,Liu 2021 Nat Commun,34285233,10.1038/s41467-021-24724-2,Exp mutation in PR8 M2
+M2,82,S,G,S82G,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P6"
+M2,91,C,F,C91F,H9N2,Mouse adaptation,> virulence mice,A/Quail/Hong Kong/G1/97 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,93,I,N,I93N,H9N2,Mouse adaptation,> virulence mice,A/Quail/Hong Kong/G1/97 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M2,93,N,S,N93S,H2N2,Mouse adaptation,> virulence mice,,Govorkova 2000 Acta Virol,11252668,,MA human H2
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

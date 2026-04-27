@@ -1,0 +1,80 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+NS1,2,D,N,D2N,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,3,P,S,P3S,H5N1,Exp reassortment,> virulence mice,,Kanrai 2016 J Gen Virol,27405649,10.1099/jgv.0.000542,NS segement reassortants
+NS1,5,S,T,S5T,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,
+NS1,20,E,K,E20K,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Hubei/01/1999 (H9N2),Zhang 2011 Infect Genet Evol,21896338,10.1016/j.meegid.2011.07.025,LPAI
+NS1,23,V,A,V23A,H3N2,Mouse adaptation,,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,23,V,A,V23A,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+NS1,23,V,A,V23A,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+NS1,26,D,K,D26K,H5N1,"Observation, mammalian cases",,,Leguia 2023 Nat Commun,37679333,10.1038/s41467-023-41182-0,Observed mammalian cases (marine mammals)
+NS1,41,R,K,R41K,H5N1,Exp reassortment,> virulence mice,,Kanrai 2016 J Gen Virol,27405649,10.1099/jgv.0.000542,NS segment reassortants
+NS1,42,P,S,P42S,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,42,P,S,P42S,H3N3,Exp infection,">virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+NS1,42,P,S,P42S,H3N8,Observation,,A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+NS1,42,P,S,P42S,H5N1,Exp infection,"> virulence mice, < antiviral mice",,Jiao 2008 J Virol,18032512,10.1128/JVI.01698-07,
+NS1,42,P,S,P42S,H5N1,"Observation, mammalian cases",,,Cronk 2023 Emerg Microbes Infect,37589241,10.1080/22221751.2023.2249554,"Red Fox kits, meningoencephalitis"
+NS1,42,P,S,P42S,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,49,T,A,T49A,H9N2,Swine adaptation,> replication pigs,A/quail/Hong Kong/G1/1997 (H9N2),Mancera 2017 PLoS One,28384328,10.1371/journal.pone.0175267,Exp swine adaptation
+NS1,54,T,I,T54I,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P2"
+NS1,55,K,E,K55E,H5N1,Exp infection,"< interferon, > replication",,Li 2018 Virology,29677653,10.1016/j.virol.2018.04.004,"NS1-C138F, K66E"
+NS1,64,T,I,T64I,H3N2,Exp mutagenesis,< interferon mice,,DeDiego 2016 J Virol,27535054,10.1128/JVI.01039-16,"huH3N2 NS1 function, CPSF30 interaction"
+NS1,66,K,E,K66E,H5N1,Exp infection,"< interferon, > replication",,Li 2018 Virology,29677653,10.1016/j.virol.2018.04.004,"NS1-C138F, K55E"
+NS1,74,D,N,D74N,H5N1,Exp reassortment,> virulence mice,,Kanrai 2016 J Gen Virol,27405649,10.1099/jgv.0.000542,NS segement reassortants
+NS1,74,D,N,D74N,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+NS1,84,F,Y,F84Y,H5N1,Exp mutagenesis,"> replication, < interferon",A/Grey Heron/Hong Kong/837/2004 (H5N1) NS recomb with WSN,Wang 2017 Viruses,28498306,10.3390/v9050107,
+NS1,89,Y,H,Y89H,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NS1,89,Y,H,Y89H,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P6"
+NS1,92,D,E,D92E,H5N1,Exp infection,> virulence pigs,,Seo 2002 Nat Med,12195436,10.1038/nm757,"H5N1-origin NS recomb into huH1N1, or D87E per deletion"
+NS1,92,D,E,D92E,H5N1,Exp mutagenesis,"> virulence mice, > virulence chickens",A/Duck/Yangzhou/232/2004 (H5N1),Long 2008 Virus Genes,18317917,10.1007/s11262-007-0187-8,"Exp mutagenesis, natural variants H5N1 (A/Duck/Yangzhou/232/2004)"
+NS1,98,L,S,L98S,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,"MA huH3N2, w/ M106I"
+NS1,103,F,L,F103L,H3N2,Mouse adaptation,,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,103,F,L,F103L,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+NS1,103,F,L,F103L,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+NS1,103,F,L,F103L,H3N2,Mouse adaptation,"> replication mice, > virulence mice",,Dankar 2011 Virol J,21226922,10.1186/1743-422X-8-13,"MA huH3N2 HK/68, NS1muts in PR8 background"
+NS1,103,L,F,L103F,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,103,L,F,L103F,H5N1,Exp infection,> virulence mice,,Kuo 2009 J Virol,19052083,10.1128/JVI.01491-08,
+NS1,103,L,F,L103F,H5N1,Exp infection,> virulence mice,,Spesock 2011 J Virol,21593152,10.1128/JVI.00417-11,
+NS1,103,L,F,L103F,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,106,M,I,M106I,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,106,M,V,M106V,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,106,M,I,M106I,H3N2,Mouse adaptation,"> replication mice, > virulence mice",,Dankar 2011 Virol J,21226922,10.1186/1743-422X-8-13,"MA huH3N2 HK/68, NS1muts in PR8 background"
+NS1,106,I,M,I106M,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,106,I,M,I106M,H3N8,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,106,I,M,I106M,H5N1,"Observation, mammalian cases",,,Cronk 2023 Emerg Microbes Infect,37589241,10.1080/22221751.2023.2249554,"Red Fox kits, meningoencephalitis"
+NS1,106,I,M,I106M,H7N9,Exp infection,"> replication, > virulence mice",,Ayllon 2014 J Virol,25078692,10.1128/JVI.01567-14,
+NS1,106,I,M,I106M,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+NS1,108,R,K,R108K,H1N1,Exp mutagenesis,> interferon,A/California/04/2009 (H1N1),Hale 2010 J Virol,20444891,10.1128/jvi.00081-10,H1N1pdm09
+NS1,123,IM,,I123-M124,H3N2,Exp mutagenesis,PKR binding and activation,A/Udorn/72 (H3N2),Min 2007 Virology,17320139,10.1016/j.virol.2007.01.038,
+NS1,124,M,I,M124I,H3N2,Mouse adaptation,,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,"MA huH3N2, w/ M106V"
+NS1,125,D,G,D125G,H3N2,Mouse adaptation,> virulence mice,A/Aichi/2/1968 (H3N2),Narasaraju 2009 Microbe Infect,18983930,10.1016/j.micinf.2008.09.013,"MA, P10"
+NS1,125,D,G,D125G,H3N2,Mouse adaptation,alternative splicing of NS,A/HK/1/68 (H3N2),Selman 2012 Emerg Microbes Infect,26038410,10.1038/emi.2012.38,
+NS1,125,D,G,D125G,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,125,E,D,E125D,H1N1,Exp mutagenesis,> interferon,A/California/04/2009 (H1N1),Hale 2010 J Virol,20444891,10.1128/jvi.00081-10,H1N1pdm09
+NS1,126,KN,,K126-N127,H3N2,Exp mutagenesis,PKR binding and activation,A/Udorn/72 (H3N2),Min 2007 Virology,17320139,10.1016/j.virol.2007.01.038,
+NS1,138,C,F,C138F,H3N3,Exp infection,">virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,
+NS1,138,C,F,C138F,H5N1,Exp infection,"< interferon, > replication",,Li 2018 Virology,29677653,10.1016/j.virol.2018.04.004,
+NS1,149,V,A,V149A,H5N1,Exp reassortant,"< interferon chickens, > virulence chickens",A/goose/Guangdong/1/96 (H5N1),Li 2006 J Virol,16971424,10.1128/JVI.00993-06,
+NS1,155,A,V,A155V,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P6"
+NS1,159,G,E,G159E,H1N1,Mouse adaptation,> virulence mice,A/Tomsk/273/2010 (H1N1),Prokopyeva 2016 Infect Genet Evol,26829383,10.1016/j.meegid.2016.01.022,
+NS1,172,E,K,E172K,H7N9,Exp mutagenesis,"> replication, enhanced splicing",A/Zhejiang/DTID-ZJU01/2013 (H7N9),Huang 2017 Nat Commun,28323816,10.1038/ncomms14751,"exonic splicing enhancer (ESE) motif, ntG540A"
+NS1,180,V,A,V180A,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,"MA huH3N2, NEP-S23P"
+NS1,180,A,V,A180V,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,LPAI
+NS1,186,E,K,E186K,H3N8,Exp mutagenesis,< interferon,,Chauché 2018 J Virol,29237841,10.1128/JVI.01875-17,Horses
+NS1,189,G,D,G189D,H1N1,Exp mutagenesis,> interferon,A/California/04/2009 (H1N1),Hale 2010 J Virol,20444891,10.1128/jvi.00081-10,H1N1pdm09
+NS1,200,R,K,R200K,H9N2,Cell culture adaptation,> virulence mice,A/chicken/Saudi Arabia/CP7/98 (H9N2),Yang 2017 J Virol,28148793,10.1128/JVI.02125-16,"Swine airway line, P1"
+NS1,200,N,S,N200S,H5N1,Exp reassortant,> virulence ferrets,A/Vietnam/UT3062/04 (H5N1),Imai 2010 PLoS Pathog,20862325,10.1371/journal.ppat.1001106,"NEP-T47A, > virulence w/ NS1-G205R and HA-T134A"
+NS1,205,G,R,G205R,H5N1,Exp reassortant,> virulence ferrets,A/Vietnam/UT3062/04 (H5N1),Imai 2010 PLoS Pathog,20862325,10.1371/journal.ppat.1001106,"NEP-I51M, > virulence w/ NS1-N200S and HA-T134A"
+NS1,205,N,K,N205K,H1N1,Swine adaptation,"> virulence pigs, > contact transmission GP",,Wei 2014 J Virol,25100840,10.1128/jvi.01679-14,rH1N1pdm09 adaptation in pigs
+NS1,213,P,S,P213S,H1N1,Exp infection,> ferret transmission,,Zanin 2017 Proc Natl Acad Sci U S A,28874549,10.1073/pnas.1713974114,
+NS1,216,K,*,K216*,H5N1,Exp infection,"modulates replication, no change virulence (mice and chickens)",A/Vietnam/1203/04 (H5N1),Zielecki 2010 J Virol,20686040,10.1128/jvi.00610-10,Variants of ESEV in avH5N1 background (A/Vietnam/1203/04)
+NS1,219,R,*,R219*,H3N8,Exp mutagenesis,< interferon,,Chauché 2018 J Virol,29237841,10.1128/JVI.01875-17,Horses
+NS1,224,R,K,R224K,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NS1,226,V,I,V226I,H3N2,Mouse adaptation,,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,MA huH3N2
+NS1,226,*,WRNKVAD,*226W-,H5N2,Mouse adaptation,> virulence,A/duck/Zhejiang/6DK19/2013 (H5N2),Wu 2016 Virol J,27663652,10.1186/s12985-016-0612-5,
+NS1,227,R,K,R227K,H3N2,Mouse adaptation,,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,"MA huH3N2, NEP-G70S"
+NS1,227,ESEV,RSKV,ESEV-->RSKV,H7N1,Exp mutagenesis,"> replication, supress INF mice, > replicartion ducks, induce duck MxA",A/Turkey/Italy/977/1999 (L7N1) with huIAV consensus NS1 RSKV,Soubies 2010 J Virol,20410267,10.1128/jvi.02427-09,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

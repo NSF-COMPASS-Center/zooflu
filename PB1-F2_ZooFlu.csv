@@ -1,0 +1,29 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+PB1-F2,1,M,*,M1*,H5N1,Exp mutagenesis,"> virulence mice, truncation of PB1-F2",A/chicken/Vietnam/NCVD-296/2009,Kamal 2015 J Viroll,25787281,10.1128/JVI.03137-14,Natural variant avH5N1
+PB1-F2,7,T,I,T7I,H5N1,"Observation, mammalian cases",,,Lagan 2023 Euro Surveill,37855904,10.2807/1560-7917.ES.2023.28.42.2300526,"Naturally occuring variant, mammalian cases (fox)"
+PB1-F2,51,T,M,T51M,H5N1,Exp mutagenesis,"> Pol, > virulence mice",A/Vietnam/1203/04 (H5N1),Marjuki 2010 Arch Virol,20383540,10.1007/s00705-010-0666-4,Corrected synonymous variants in H5N1
+PB1-F2,56,V,A,V56A,H5N1,Exp mutagenesis,"> Pol, > virulence mice",A/Vietnam/1203/04 (H5N1),Marjuki 2010 Arch Virol,20383540,10.1007/s00705-010-0666-4,Corrected synonymous variants in H5N1
+PB1-F2,66,N,S,N66S,H5N1,Exp mutagenesis,"> replication mice, > virulence mice",,Conenello 2007 PLoS Pathog,17922571,10.1371/journal.ppat.0030141,
+PB1-F2,66,N,S,N66S,H3N8,Observation,"> Pol, > replication",A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+PB1-F2,66,N,S,N66S,H5N1,Exp mutagenesis,"> replication mice, > virulence mice",A/Viet Nam/1203/2004 (H5N1),Schmolke 2011 PLoS Pathog,21852950,10.1371/journal.ppat.1002186,
+PB1-F2,87,E,G,E87G,H5N1,Exp mutagenesis,"> Pol, > virulence mice",A/Vietnam/1203/04 (H5N1),Marjuki 2010 Arch Virol,20383540,10.1007/s00705-010-0666-4,Corrected synonymous variants in H5N1
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

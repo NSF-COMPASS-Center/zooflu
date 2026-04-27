@@ -1,0 +1,274 @@
+Viral Protein,Consensus Position N2,Position reported,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+NA,5,5,P,Q,P5Q,H7N1,Cell culture adaptation,,A/ostrich/Zimbabwe/222-E3/1996 (H7N1),Ninpan 2017 Virus Res,28579356,10.1016/j.virusres.2017.05.021,Passage adaptation in A549
+NA,9,9,A,G,A9G,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NA,21,21,I,N,I21N,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P2"
+NA,26,26,M,I,M26I,H7N9,Mouse adaptation,> virulence mice,A/Shanghai/2/2013 (H7N9),Zhao 2016 Vet Microbiol,27066703,10.1016/j.vetmic.2016.02.027,
+NA,27,27,A,T,A27T,H9N2,Mouse adaptation,> virulence mice,A/duck/Jiangsu/1/2008 (H9N2),Liu 2014 Arch Virol,24696271,10.1007/s00705-014-2062-y,
+NA,28,28,I,V,I28V,H9N2,Ferret adaptation,linked to ferret transmission,,Sorrell 2009 Proc Natl Acad Sci U S A,19380727,10.1073/pnas.0900877106,Ferret transmission passage (A/ferret/Maryland/P10-UMD/08); from reassortant: H9N2 HA-NA (A/guinea fowl/Hong Kong/WF10/99) with internal huH3N2 (A/Memphis/14/98)
+NA,32,32,A,T,A32T,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P2"
+NA,55,55,T,N,T55N,H1N1,Mouse adaptation,> virulence mice,A/California/07/2009 (H1N1),Slaine 2018 Viruses,29783694,10.3390/v10050272,
+NA,54,56,A,T,A56T,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P4"
+NA,59,59,E,G,E59G,H3N2,"Observation, human cases",NAI resistance [O] (when linked to E119V),,Baz 2006 Clin Infect Dis,17109288,10.1086/508777,"Case report, human immunocompromised child following treatment, seasonal H3N2 (A/California/7/2004-like), April 2005"
+NA,60,74,F,S,F74S,H5N1,"Observation, mammalian cases",,,de Vries 2023 Euro Surveill,36795504,10.2807/1560-7917.ES.2023.28.7.2300085,Observed mammalian cases (mink)
+NA,91,88,Q,R,Q88R,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Hubei/01/1999 (H9N2),Zhang 2011 Infect Genet Evol,21896338,10.1016/j.meegid.2011.07.025,LPAI
+NA,91,91,L,I,L91I,H6N5,Exp mutagenesis,*w/ E119V* NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N5 mutagenesis and NAI screen, or SDM (A/Environment/Korea/W69/2005) recomb reassort with PR8"
+NA,91,91,L,I,L91I,H6N5,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N5 (A/Environment/Korea/W69/2005) recomb reassort with PR8"
+NA,106,106,I,V,I106V,H1N1,Mouse adaptation,> virulence mice,A/Tomsk/273/2010 (H1N1),Prokopyeva 2016 Infect Genet Evol,26829383,10.1016/j.meegid.2016.01.022,
+NA,106,106,,,del106-342,H3N2,Antiviral selection,NAI resistance [O/L],A/Brisbane/10/2007 (H3N2),Samson 2014 Antimicrob Agents Chemother,24957832,10.1128/AAC.03313-14,"Selection of resistance by treatment laninamivir, huH3N2"
+NA,106,106,I,V,I106V,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+NA,,110,K,E,K110E,H10N7,Mouse adaptation,"> virulence mice, > sialidase",A/mallard/Beijing/27/2011 (H10N7),Zhang 2017 J Gen Virol,28597818,10.1099/jgv.0.000770,
+NA,110,110,A,V,A110V,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+NA,111,111,S,N,S111N,H7N7,Exp mutagenesis,*w/ E119D* NAI resistance [Z/L],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7 (A/Duck/Potsdam/62-4/1981) recomb reassort with PR8"
+NA,111,111,S,N,S111N,H7N7,Exp mutagenesis,*w/ E119D* NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen (A/Duck/Potsdam/62-4/1981) recomb reassort with PR8
+NA,116,116,V,A,V116A,H1N1,Antiviral selection,NAI resistance [Z],A/mallard/Sweden/51833/2006 (H1N1),Nykvist 2017 J Gen Virol,29139346,10.1099/jgv.0.000977,Selection of resistance by treatment in mallards
+NA,116,116,V,A,V116A,H5N1,Antiviral selection,NAI resistance [O],A/Vietnam/1203/04 (H5N1),Govorkova 2007 Antimicrob Agents Chemother,17296744,10.1128/AAC.01312-06,Selection of resistance in ferrets by treatment
+NA,116,116,V,A,V116A,H5N1,Observation,NAI resistance [O/Z],,Hurt 2007 Antiviral Res,17112602,10.1016/j.antiviral.2006.10.004,"Naturally occuring variants avians H5N1, South East Asia, 2004-2006"
+NA,116,116,V,A,V116A,H5N1,Observation,NAI resistance [O],,Boltz 2010 J Gen Virol,20016036,10.1099/vir.0.017459-0,"Naturally occuring variants avian and human H5N1, Lao PDR, 2006-2008"
+NA,116,116,V,A,V116A,H5N1,Exp mutagenesis,NAI resistance [O],A/Turkey/15/06 (H5N1),Ilyushina 2010 PLoS Pathog,20523902,10.1371/journal.ppat.1000933,H5N1 2.2
+NA,117,117,I,V,I117V,H5N1,Observation,NAI resistance [O] w/ NA-I314V,,Hurt 2007 Antiviral Res,17112602,10.1016/j.antiviral.2006.10.004,"Naturally occuring variants avian H5N1, South East Asia, 2004-2006"
+NA,117,117,I,T,I117T,H5N1,Exp mutagenesis,NAI resistance [O/Z],,Kode 2019 Vet Microbiol,31282375,10.1016/j.vetmic.2019.06.005,"Naturally occuring variants avH5N1, India, 2006-2012"
+NA,117,117,I,V,I117V,H5N1,Exp mutagenesis,NAI resistance [O],A/Turkey/15/06 (H5N1),Ilyushina 2010 PLoS Pathog,20523902,10.1371/journal.ppat.1000933,H5N1 2.2
+NA,117,117,I,V,I117V,H5N1,Observation,NAI resistance [O],,Le 2008 PLoS One,18836532,10.1371/journal.pone.0003339,"Naturally occuring variants H5N1 2.3.4, Vietnam, 2007 "
+NA,119,119,E,V,E119V,H11N9,Exp mutagenesis,NAI resistance [O],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N9"
+NA,119,119,E,V,E119V,H11N9,Exp mutagenesis,NAI resistance [O],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N9 mutagenesis and NAI screen
+NA,119,119,E,Q,E119Q,H1N1,Exp mutagenesis,NAI resistance [O/Z],WSN (H1N1),Abed 2004 Antivir Ther,15456089,10.1177/135965350400900404,
+NA,119,119,E,V,E119V,H1N1,Exp mutagenesis,NAI resistance [O/Z/P],WSN (H1N1),Abed 2006 Antivir Ther,17302366,10.1177/135965350601100804,
+NA,119,119,E,D,E119D,H1N1,Exp mutagenesis,NAI resistance [O/Z/P/L],,L'Huillier 2015 J Infect Dis,25985905,10.1093/infdis/jiv288,"Variant from human ic patient, H1N1pdm09"
+NA,119,119,E,D,E119D,H1N1,Exp mutagenesis,"NAI resistance [O/Z/P] w/ or w/o H274Y, stable fitness",A/California/04/2009 (H1N1),Baek 2015 J Virol,25320319,10.1128/jvi.02485-14,
+NA,119,119,E,D,E119D,H1N1,Antiviral selection,NAI resistance [O/Z/P/L],A/California/04/2009 (H1N1),Lloren 2019 J Virol,30602610,"10.1128/JVI.01825-18
+
+","Selection of resistance by treatment laninamivir, of random N1 mutagenesis"
+NA,119,119,E,G,E119G,H1N1,Antiviral selection,NAI resistance [Z/P/L],A/California/04/2009 (H1N1),Lloren 2019 J Virol,30602610,"10.1128/JVI.01825-18
+
+","Selection of resistance by treatment laninamivir, of random N1 mutagenesis"
+NA,119,119,E,A,E119A,H1N1,Antiviral selection,NAI resistance [O/L],A/Solomon Islands/3/2006 (H1N1),Samson 2014 Antimicrob Agents Chemother,24957832,10.1128/AAC.03313-14,"Selection of resistance by treatment laninamivir, H1N1"
+NA,119,119,E,A,E119A,H1N1,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Quebec/144147/2009 (H1N1),Samson 2014 Antimicrob Agents Chemother,24957832,10.1128/AAC.03313-14,
+NA,119,119,E,K,E119K,H1N1,Antiviral selection,NAI resistance [O/L],A/Quebec/144147/2009 (H1N1),Samson 2014 Antimicrob Agents Chemother,24957832,10.1128/AAC.03313-14,"Selection of resistance by treatment laninamivir, H1N1pdm09"
+NA,119,119,E,V,E119V,H3N2,Exp mutagenesis,NAI resistance [O],A/Wuhan/359/95 (H3N2),Yen 2005 Antimicrob Agents Chemother,16189083,10.1128/AAC.49.10.4075-4084.2005,
+NA,119,119,E,V,E119V,H3N2,Exp mutagenesis,NAI resistance [O],A/Sydney/5/97 (H3N2),Abed 2006 Antivir Ther,17302366,10.1177/135965350601100804,
+NA,119,119,E,V,E119V,H3N2,"Observation, human cases",NAI resistance [O],,Baz 2006 Clin Infect Dis,17109288,10.1086/508777,"Case report, human immunocompromised child following treatment, seasonal H3N2 (A/California/7/2004-like), April 2005"
+NA,119,119,E,A,E119A,H4N2,Antiviral selection,NAI resistance [GG167],A/turkey/Minnesota/833/80 (H4N2),Gubareva 1997 J Virol,9094607,10.1128/JVI.71.5.3385-3390.1997,"Selection of resistance by treatment, H4N2"
+NA,119,119,E,D,E119D,H4N2,Antiviral selection,NAI resistance [GG167],A/turkey/Minnesota/833/80 (H4N2),Gubareva 1997 J Virol,9094607,10.1128/JVI.71.5.3385-3390.1997,"Selection of resistance by treatment, H4N2"
+NA,119,119,E,G,E119G,H4N2,Antiviral selection,NAI resistance [GG167],A/turkey/Minnesota/833/80 (H4N2),Gubareva 1997 J Virol,9094607,10.1128/JVI.71.5.3385-3390.1997,"Selection of resistance by treatment, H4N2"
+NA,119,119,E,G,E119G,H4N2,Antiviral selection,"NAI resistance [Z], low fitness reversion",A/mallard/Sweden/80190/2008 (H4N2),Tepper 2020 J Gen Virol,31855133,10.1099/jgv.0.001369,Selection of resistance by treatment in mallards
+NA,119,119,E,D,E119D,H4N6,Exp mutagenesis,NAI resistance [Z/P],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N6 mutagenesis and NAI screen, or SDM"
+NA,119,119,E,D,E119D,H5N1,Exp mutagenesis,"NAI resistance [O/Z/P] w/ or w/o H274Y, < fitness",A/EM/Korea/W149/06 (H5N1) HA-NA +6PR8,Baek 2015 J Virol,25320319,10.1128/jvi.02485-14,
+NA,119,119,E,G,E119G,H5N1,Antiviral selection,NAI resistance [Z/P],,Hurt 2009 Antimicrob Agents Chemother,19651908,10.1128/AAC.00334-09,"Selection of resistance, H5N1 (A/Vietnam/1203/2004, C1, and A/Chicken/Laos/26/2006, C2.3)"
+NA,119,119,E,A,E119A,H5N1,Exp mutagenesis,NAI resistance [O/Z],A/Turkey/15/06 (H5N1),Ilyushina 2010 PLoS Pathog,20523902,10.1371/journal.ppat.1000933,H5N1 2.2
+NA,119,119,E,A,E119A,H5N1,Antiviral selection,NAI resistance [O/Z/P],A/Turkey/65-1242/06 (H5N1),Ilyushina 2012 J Virol,22379077,10.1128/JVI.06774-11,Selection of resistance by treatment in NHBE cells
+NA,119,119,E,V,E119V,H5N2,Exp mutagenesis,NAI resistance [O],A/goose/Taiwan/01031/2015 (H5N2) HA-NA +6PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,
+NA,119,119,E,V,E119V,H5N6,Exp infection,> replication mice,A/Bean goose/South Korea/KNU18-6/2018 (H5N6),Nguyen 2020 Viruses,32709116,10.3390/v12070774,"Naturally occuring variants, H5N6, South Korea, 2018"
+NA,119,119,E,D,E119D,H4N6,Exp mutagenesis,NAI resistance [Z/P/L],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N6"
+NA,119,119,E,V,E119V,H5N6,Exp mutagenesis,NAI resistance [O],A/chicken/Jiangxi/02.05 YGYXG023-P/2015 (H5N6) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N6 2.3.4.4"
+NA,119,119,E,V,E119V,H5N8,Exp mutagenesis,NAI resistance [O/Z/P],A/scarlet ibis/Germany/Ar44-L01279/2015 (H5N8) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N8"
+NA,119,119,E,V,E119V,H6N5,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N5 mutagenesis and NAI screen, or SDM"
+NA,119,119,E,V,E119V,H6N5,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N5"
+NA,119,119,E,G,E119G,H7N3,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Turkey/Minnesota/916/1980 (H7N3) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N3"
+NA,119,119,E,G,E119G,H7N3,Exp mutagenesis,NAI resistance [O/Z/P],A/Turkey/Minnesota/916/1980 (H7N3) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N3 mutagenesis and NAI screen
+NA,119,119,E,V,E119V,H7N7,Exp mutagenesis,NAI resistance [O],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,119,119,E,G,E119G,H7N7,Exp mutagenesis,NAI resistance [Z/L],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,119,119,E,D,E119D,H7N7,Exp mutagenesis,NAI resistance [Z/L],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,119,119,E,V,E119V,H7N7,Exp mutagenesis,NAI resistance [O],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,119,119,E,G,E119G,H7N7,Exp mutagenesis,NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,119,119,E,D,E119D,H7N7,Exp mutagenesis,NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,119,119,E,V,E119V,H7N9,Exp mutagenesis,NAI resistance [O],,Marjuki 2015 J Infect Dis,25124927,10.1093/infdis/jiu447,"Exp mutagenesis, variants from huH7N9 case under treatment, Taiwan, 2013"
+NA,119,119,E,V,E119V,H7N9,Exp mutagenesis,"NAI resistance [O] in vivo ferret, viral shed",A/Taiwan/1/2013 (H7N9),Marjuki 2015 J Virol,25740997,10.1128/JVI.03513-14,"Exp mutagenesis in vivo ferrets, clinical variants of H7N9"
+NA,119,119,E,V,E119V,H7N9,Exp mutagenesis,"NAI resistance [O] in vivo, > virulence mice, when NA-E119V-I222L DM",A/Guangdong/17SF006/2017 (H7N9) HA-NA recomb reassortant with 6-PR8,Tang 2021 Sci Rep,34381119,10.1038/s41598-021-95771-4,"Exp mutagenesis in vivo mice, clinical variants of H7N9"
+NA,119,119,E,D,E119D,H9N2,Antiviral selection,NAI resistance [Z],A/chicken/India/Pune-NIV99321/2009 (H9N2),Kode 2019 Virus Res,30910698,10.1016/j.virusres.2019.03.019,"Selection of resistance by treatment, H9N2"
+NA,120,120,P,S,P120S,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,
+NA,136,136,Q,K,Q136K,H11N9,Exp mutagenesis,NAI resistance [Z/P/L],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N9"
+NA,136,136,Q,K,Q136K,H11N9,Exp mutagenesis,NAI resistance [Z/P],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N9 mutagenesis and NAI screen
+NA,136,136,Q,K,Q136K,H1N1,Exp mutagenesis,NAI resistance [Z/P],A/Philippines/1279/2006 (H1N1),Hurt 2009 J Virol,19641000,10.1128/JVI.01200-09,"Exp mutagenesis, naturally occuring variants in huH1N1 isolates, Australasia and Southeast Asia, 2006-2008"
+NA,136,136,Q,K,Q136K,H1N1,Exp mutagenesis,"NAI resistance [Z], tradeoff GP transmission fitness",A/Hansa Hamburg/01/2009 (H1N1),Kaminski 2013 J Virol,23192869,10.1128/jvi.02507-12,"Exp mutagenesis, selected resistance markers, H1N1pdm09"
+NA,136,136,Q,K,Q136K,H1N1,Antiviral selection,NAI resistance [Z/P/L],A/California/04/2009 (H1N1),Lloren 2019 J Virol,30602610,"10.1128/JVI.01825-18
+
+","Selection of resistance by treatment laninamivir, or random N1 mutagenesis"
+NA,136,136,Q,L,Q136L,H5N1,Antiviral selection,NAI resistance [O/Z],A/Vietnam/1203/2004 (H5N1),Hurt 2010 Antiviral Res,20603155,10.1016/j.antiviral.2010.06.009,Selection of resistance in ferrets by treatment
+NA,136,136,Q,K,Q136K,H5N8,Exp mutagenesis,NAI resistance [Z/P],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N8 mutagenesis and NAI screen, or SDM"
+NA,136,136,Q,K,Q136K,H5N8,Exp mutagenesis,NAI resistance [Z/P/L],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N8"
+NA,138,138,A,V,A138V,H1N1,Antiviral selection,NAI resistance [Z],A/mallard/Sweden/51833/2006 (H1N1),Nykvist 2017 J Gen Virol,29139346,10.1099/jgv.0.000977,Selection of resistance by treatment in mallards
+NA,142,142,N,S,N142S,H7N9,Mouse adaptation,> virulence mice,A/Shanghai/2/2013 (H7N9),Zhao 2016 Vet Microbiol,27066703,10.1016/j.vetmic.2016.02.027,
+NA,147,147,G,E,G147E,H1N1,Antiviral selection,NAI resistance [O/L],A/Quebec/144147/2009 (H1N1),Samson 2014 Antimicrob Agents Chemother,24957832,10.1128/AAC.03313-14,"Selection of resistance by treatment laninamivir, H1N1pdm09"
+NA,147,147,G,V,G147V,H5N8,Exp mutagenesis,NAI resistance [Z],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N8 mutagenesis and NAI screen, or SDM"
+NA,147,147,G,V,G147V,H5N8,Exp mutagenesis,NAI resistance [Z/L],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N8"
+NA,147,147,N,I,N147I,H6N5,Exp mutagenesis,NAI resistance [Z],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N5 mutagenesis and NAI screen, or SDM"
+NA,147,147,N,I,N147I,H6N5,Exp mutagenesis,NAI resistance [Z],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N5"
+NA,149,149,V,A,V149A,H5N1,"Observation, human cases",NAI resistance [Z],A/Cambodia/P0322095/2005 (H5N1),Naughtin 2011 Antimicrob Agents Chemother,21343450,10.1128/AAC.01773-10,"Naturally occuring variants H5N1 1, Cambodia, 2004-2010"
+NA,150,150,K,N,K150N,H5N1,"Observation, human cases",NAI resistance [O],,Boltz 2010 J Gen Virol,20016036,10.1099/vir.0.017459-0,"Naturally occuring variants avian and human H5N1, Lao PDR, 2006-2008"
+NA,151,151,D,E,D151E,H3N2,Exp mutagenesis,NAI resistance [O],A/Wuhan/359/95 (H3N2),Yen 2006 J Virol,16912325,10.1128/JVI.00477-06,"Exp mutagenesis, H3N2"
+NA,152,152,R,K,R152K,H1N1,Antiviral selection,NAI resistance [O],A/mallard/Sweden/51833/2006 (H1N1),Nykvist 2017 J Gen Virol,29139346,10.1099/jgv.0.000977,"Selection of resistance by treatment in mallards, H1N1"
+NA,152,152,R,K,R152K,H1N1,Antiviral selection,NAI resistance [O/Z/L],A/California/04/2009 (H1N1),Lloren 2019 J Virol,30602610,"10.1128/JVI.01825-18
+
+","Selection of resistance by treatment laninamivir, of random N1 mutagenesis"
+NA,152,152,R,W,R152W,H7N7,Exp mutagenesis,NAI resistance [O/Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,152,152,R,W,R152W,H7N7,Exp mutagenesis,NAI resistance [O],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,152,152,R,K,R152K,H7N9,Exp mutagenesis,NAI resistance [O],A/Shanghai/2/2013 (H7N9),Gubareva 2017 J Infect Dis,28934455,10.1093/infdis/jiw625,
+NA,156,156,R,K,R156K,H5N1,Antiviral selection,NAI resistance [O/Z/P],A/Hong Kong/213/03 (H5N1),Ilyushina 2012 J Virol,22379077,10.1128/JVI.06774-11,Selection of resistance by treatment in NHBE cells
+NA,157,157,T,I,T157I,H1N1,Antiviral selection,Linked to NAI resistence in mallard selection,A/mallard/Sweden/51833/2006 (H1N1),Nykvist 2017 J Gen Virol,29139346,10.1099/jgv.0.000977,Selection of resistance by treatment in mallards
+NA,163,163,V,L,V163L,H5N1,"Observation, mammalian cases",,,de Vries 2023 Euro Surveill,36795504,10.2807/1560-7917.ES.2023.28.7.2300085,Observed mammalian cases (mink)
+NA,171,170,G,R,G170R,H3N2,Mouse adaptation,> virulence mice,A/baikal teal/Shanghai/SH-89/2013 (H3N2),Yu 2017 Vet Microbiol,28757037,10.1016/j.vetmic.2017.05.020,
+NA,198,198,D,G,D198G,H5N1,Antiviral selection,NAI resistance [O/Z],,Hurt 2009 Antimicrob Agents Chemother,19651908,10.1128/AAC.00334-09,"Selection of resistance, H5N1 (A/Vietnam/1203/2004, C1, and A/Chicken/Laos/26/2006, C2.3)"
+NA,198,199,D,G,D199G,H1N1,Antiviral selection,NAI resistance [O],A/mallard/Sweden/51833/2006 (H1N1),Nykvist 2017 J Gen Virol,29139346,10.1099/jgv.0.000977,Selection of resistance by treatment in mallards
+NA,199,199,D,E,D199E,H1N1,Antiviral selection,"NAI resistance [O], rapid reversion in mice",A/California/04/2009 (H1N1),Lloren 2019 J Virol,30602610,"10.1128/JVI.01825-18
+
+","Selection of resistance by treatment laninamivir, of random N1 mutagenesis"
+NA,222,222,I,M,I222M,H11N9,Exp mutagenesis,NAI resistance [O],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N9"
+NA,222,222,I,M,I222M,H11N9,Exp mutagenesis,NAI resistance [O],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N9 mutagenesis and NAI screen
+NA,222,222,I,V,I222V,H3N2,"Observation, human cases",NAI resistance [O] w/ E119V,,Baz 2006 Clin Infect Dis,17109288,10.1086/508777,"Case report, human immunocompromised child following treatment, seasonal H3N2 (A/California/7/2004-like), April 2005"
+NA,222,222,I,M,I222M,H5N1,Antiviral selection,"NAI resistance [O/P], enhanced with H274Y",,Hurt 2009 Antimicrob Agents Chemother,19651908,10.1128/AAC.00334-09,"Selection of resistance, H5N1 (A/Vietnam/1203/2004, C1, and A/Chicken/Laos/26/2006, C2.3)"
+NA,222,222,I,V,I222V,H5N1,Antiviral selection,*only w/ H274Y* NAI resistance [O/P],,Hurt 2009 Antimicrob Agents Chemother,19651908,10.1128/AAC.00334-09,"Selection of resistance, H5N1 (A/Vietnam/1203/2004, C1, and A/Chicken/Laos/26/2006, C2.3)"
+NA,222,222,I,L,I222L,H5N1,"Observation, human cases",NAI resistance [O],,Boltz 2010 J Gen Virol,20016036,10.1099/vir.0.017459-0,"Naturally occuring variants avian and human H5N1, Lao PDR, 2006-2008"
+NA,222,222,I,M,I222M,H5N1,Exp mutagenesis,NAI resistance [O],,Andreev 2024 Antiviral Res,38986873,10.1016/j.antiviral.2024.105959,
+NA,222,222,I,T,I222T,H7N9,Antiviral selection,NAI resistance [O],A/mallard/Sweden/1621/2002 (H7N9),Gillman 2015 Antimicrob Agents Chemother,26077257,10.1128/AAC.00886-15,"Selection of resistance by treatment in mallards, LPAIV H7N9"
+NA,222,222,I,K,I222K,H7N9,Exp mutagenesis,NAI resistance [O/L],,Marjuki 2015 J Infect Dis,25124927,10.1093/infdis/jiu447,"Exp mutagenesis, variants from huH7N9 case under treatment, Taiwan, 2013"
+NA,222,222,I,R,I222R,H7N9,Exp mutagenesis,NAI resistance [O/Z/P/L],,Marjuki 2015 J Infect Dis,25124927,10.1093/infdis/jiu447,"Exp mutagenesis, variants from huH7N9 case under treatment, Taiwan, 2013"
+NA,222,222,I,K,I222K,H7N9,Exp infection,"NAI resistance [O] in vivo ferret, viral shed",A/Taiwan/1/2013 (H7N9),Marjuki 2015 J Virol,25740997,10.1128/JVI.03513-14,"Exp mutagenesis in vivo ferrets, clinical variants of H7N9"
+NA,222,222,I,L,I222L,H7N9,Exp infection,"NAI resistance [O] in vivo, > virulence mice, when NA-E119V-I222L DM",A/Guangdong/17SF006/2017 (H7N9) HA-NA recomb reassortants 6-PR8,Tang 2021 Sci Rep,34381119,10.1038/s41598-021-95771-4,"Exp mutagenesis in vivo mice, clinical variants of H7N9"
+NA,222,223,I,V,I223V,H1N1,"Observation, human cases","NAI resistance [O], linked to H275Y",,CDC 2009 MMWR Morb Mortal Wkly Rep,19745803,,"Case report following prophylaxis, H1N1pdm09"
+NA,222,223,I,R,I223R,H1N1,"Observation, human cases",NAI resistance [O/Z],A/Ontario/313762/2009 (H1N1),Eshaghi 2011 Emerg Infect Dis,21801626,10.3201/eid1708.102004,"Case report, human immunocompromised child, H1N1pdm09"
+NA,222,223,I,T,I223T,H1N1,Exp mutagenesis,"NAI resistance [O], greater fitness stability with H275Y (152R adjacent support)",A/California/04/2009 (H1N1),Huang 2014 Antimicrob Agents Chemother,24366752,10.1128/AAC.01848-13,"Exp mutagenesis, H1N1pdm09"
+NA,222,223,I,V,I223V,H1N1,Exp mutagenesis,NAI resistance [O],A/Québec/144147/09 (H1N1),Paradis 2015 PLoS One,25992792,10.1371/journal.pone.0126115,"Exp and mathmatical modeing of OR mutant fitness, H1N1pdm09"
+NA,222,223,I,T,I223T,H5N1,Observation,NAI resistance [O],,Creanga 2017 J Infect Dis,28934457,10.1093/infdis/jix003,"Naturally occuring variants, Vietnam, 2003-2010"
+NA,222,223,I,T,I223T,H5N1,Observation,NAI resistance [O],,Nguyen 2013 Emerg Infect Dis,24274711,10.3201/eid1912.130705,"Naturally occuring variants avH5N1 2.3.4, Vietnam, 2011-2013"
+NA,224,224,R,K,R224K,H3N2,Exp mutagenesis,"NAI resistance [O/Z], but unstable",A/Wuhan/359/95 (H3N2),Yen 2006 J Virol,16912325,10.1128/JVI.00477-06,"Exp mutagenesis, H3N2"
+NA,227,227,E,D,E227D,H1N1,Exp mutagenesis,"NAI resistance [Z], *only in N1*",A/New Caledonia/20/99 (H1N1),Ho 2007 Antiviral Res,17868928,10.1016/j.antiviral.2007.08.002,"Exp mutagenesis, N1"
+NA,,242,K,R,K242R,H5N1,Exp mutagenesis,> replication,A/Duck/Fujian/2018 (H5N1),Yan 2025 J Virol,40788012,10.1128/jvi.00771-25,Evade HSP A1L (HSPA1L) targeted degradation
+NA,246,246,A,T,A246T,H11N9,Exp mutagenesis,NAI resistance [Z],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N9"
+NA,246,246,A,T,A246T,H11N9,Exp mutagenesis,NAI resistance [Z],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N9 mutagenesis and NAI screen
+NA,246,246,A,V,A246V,H4N6,Exp mutagenesis,NAI resistance [Z/P],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N6 mutagenesis and NAI screen, or SDM"
+NA,265,246,S,N,S246N,H5N1,"Observation, human cases",NAI resistance [O],,Boltz 2010 J Gen Virol,20016036,10.1099/vir.0.017459-0,"Naturally occuring variants avian and human H5N1, Lao PDR, 2006-2008"
+NA,246,246,A,V,A246V,H4N6,Exp mutagenesis,NAI resistance [Z/L],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N6"
+NA,247,247,S,N,S247N,H5N1,Observation,NAI resistance [O],,Creanga 2017 J Infect Dis,28934457,10.1093/infdis/jix003,"Naturally occuring variants, Vietnam, 2003-2010"
+NA,,248,N,D,N248D,H1N1,Mouse adaptation,> virulence mice,A/Tomsk/273/2010 (H1N1),Prokopyeva 2016 Infect Genet Evol,26829383,10.1016/j.meegid.2016.01.022,
+NA,252,252,Y,H,Y252H,H5N1,Exp mutagenesis,NAI resistance [O],A/Turkey/15/06 (H5N1),Ilyushina 2010 PLoS Pathog,20523902,10.1371/journal.ppat.1000933,H5N1 2.2
+NA,,272,D,N,D272N,H5N6,,"> replication, > virulence mice",,Zhang 2022 iScience,36567717,10.1016/j.isci.2022.105693,
+NA,274,274,H,Y,H274Y,H10N4,Exp mutagenesis,NAI resistance [O/P],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N4 mutagenesis and NAI screen, or SDM"
+NA,274,274,H,Y,H274Y,H10N4,Exp mutagenesis,NAI resistance [O/P],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N4"
+NA,274,274,H,Y,H274Y,H11N9,Exp mutagenesis,NAI resistance [O/P],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N9"
+NA,274,274,H,Y,H274Y,H11N9,Exp mutagenesis,NAI resistance [O/P],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N9 mutagenesis and NAI screen
+NA,274,274,H,Y,H274Y,H1N1,Exp mutagenesis,NAI resistance [O/P],WSN (H1N1),Abed 2004 Antivir Ther,15456089,10.1177/135965350400900404,"Exp mutagenesis, H1N1"
+NA,274,274,H,Y,H274Y,H1N1,Exp mutagenesis,NAI resistance [O/P],WSN (H1N1),Abed 2006 Antivir Ther,17302366,10.1177/135965350601100804,"Exp mutagenesis, H1N1"
+NA,274,274,H,N,H274N,H4N2,Antiviral selection,"NAI resistance [Z], low fitness reversion",A/mallard/Sweden/80190/2008 (H4N2),Tepper 2020 J Gen Virol,31855133,10.1099/jgv.0.001369,"Selection of resistance by treatment in mallards, H4N2"
+NA,274,274,H,Y,H274Y,H5N1,Antiviral selection,NAI resistance [O],A/Vietnam/1203/04 (H5N1),Govorkova 2007 Antimicrob Agents Chemother,17296744,10.1128/AAC.01312-06,Selection of resistance in ferrets by treatment
+NA,274,274,H,R,H274R,H5N1,Antiviral selection,NAI resistance [O],A/Vietnam/1203/04 (H5N1),Govorkova 2007 Antimicrob Agents Chemother,17296744,10.1128/AAC.01312-06,Selection of resistance in ferrets by treatment
+NA,274,274,H,Y,H274Y,H5N1,,NAI resistance [O],,Ilyushina 2008 PLoS Pathog,18404209,10.1371/journal.ppat.1000043,
+NA,274,274,H,Y,H274Y,H5N1,Antiviral selection,NAI resistance [O/P],,Hurt 2009 Antimicrob Agents Chemother,19651908,10.1128/AAC.00334-09,"Selection of resistance, H5N1 (A/Vietnam/1203/2004, C1, and A/Chicken/Laos/26/2006, C2.3)"
+NA,274,274,H,Y,H274Y,H5N1,Exp mutagenesis,NAI resistance [O],A/Turkey/15/06 (H5N1),Ilyushina 2010 PLoS Pathog,20523902,10.1371/journal.ppat.1000933,H5N1 2.2
+NA,274,274,H,Y,H274Y,H5N1,"Observation, human cases",NAI resistance [O],A/Hanoi/30408/2005 (H5N1),Le 2005 Nature,16228009,10.1038/4371108a,"Naturally occuring variant, huH5N1 case, Vietnam, 2005"
+NA,274,274,H,Y,H274Y,H5N6,Exp mutagenesis,NAI resistance [O],A/chicken/Jiangxi/02.05 YGYXG023-P/2015 (H5N6) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N6 2.3.4.4"
+NA,274,274,H,Y,H274Y,H5N8,Exp mutagenesis,NAI resistance [O/P],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N8 mutagenesis and NAI screen, or SDM"
+NA,274,274,H,Y,H274Y,H5N8,Exp mutagenesis,NAI resistance [O/P],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N8"
+NA,274,274,H,Y,H274Y,H5N8,Exp mutagenesis,NAI resistance [O/P],A/scarlet ibis/Germany/Ar44-L01279/2015 (H5N8) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N8"
+NA,274,274,H,Y,H274Y,H6N5,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N5 mutagenesis and NAI screen, or SDM"
+NA,274,274,H,Y,H274Y,H6N5,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N5"
+NA,274,274,H,Y,H274Y,H7N3,Exp mutagenesis,NAI resistance [O],A/Turkey/Minnesota/916/1980 (H7N3) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N3"
+NA,274,274,H,Y,H274Y,H7N3,Exp mutagenesis,NAI resistance [O],A/Turkey/Minnesota/916/1980 (H7N3) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N3 mutagenesis and NAI screen
+NA,274,274,H,Y,H274Y,H7N7,Exp mutagenesis,NAI resistance [O],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,274,274,H,Y,H274Y,H7N7,Exp mutagenesis,NAI resistance [O],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,274,274,H,Y,H274Y,H7N9,Exp mutagenesis,NAI resistance [O],A/Shanghai/2/2013 (H7N9),Gubareva 2017 J Infect Dis,28934455,10.1093/infdis/jiw625,
+NA,274,275,H,Y,H275Y,H1N1,"Observation, human cases",NAI resistance [O],,CDC 2009 MMWR Morb Mortal Wkly Rep,19745803,,"Case report following prophylaxis, H1N1pdm09"
+NA,274,275,H,Y,H275Y,H1N1,"Observation, human cases",NAI resistance [O],,Baz 2009 N Engl J Med,19907034,10.1056/nejmc0910060,"Case report following prophylaxis, H1N1pdm09"
+NA,274,275,H,Y,H275Y,H1N1,"Observation, human cases",NAI resistance [O],,Wang 2010 Antiviral Res,20385168,10.1016/j.antiviral.2010.04.002,"Naturally occuring variant, H1N1pdm09"
+NA,274,275,H,Y,H275Y,H1N1,Exp mutagenesis,NAI resistance [O],A/Québec/144147/09 (H1N1),Paradis 2015 PLoS One,25992792,10.1371/journal.pone.0126115,"Exp and mathmatical modeing of OR mutant fitness, H1N1pdm09"
+NA,274,275,H,Y,H275Y,H1N1,Exp mutagenesis,NAI resistance [O],,Duan 2014 Nat Commun,25297528,10.1038/ncomms6029,[275?]
+NA,274,275,H,Y,H275Y,H1N1,Antiviral selection,NAI resistance [O],A/mallard/Sweden/51833/2006 (H1N1),Nykvist 2017 J Gen Virol,29139346,10.1099/jgv.0.000977,"Selection of resistance by treatment in mallards, H1N1"
+NA,274,275,H,Y,H275Y,H5N1,Observation,NAI resistance [O/P],,Nguyen 2013 Emerg Infect Dis,24274711,10.3201/eid1912.130705,"Naturally occuring variants avH5N1 2.3.2.1, Vietnam, 2011-2013"
+NA,275,275,I,T,I275T,H7N7,Exp mutagenesis,*w/ E276D* NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,275,275,I,T,I275T,H7N7,Exp mutagenesis,*w/ E276D* NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,276,276,E,D,E276D,H10N4,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N4 mutagenesis and NAI screen, or SDM"
+NA,276,276,E,D,E276D,H10N4,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N4"
+NA,276,276,E,D,E276D,H3N2,Exp mutagenesis,NAI resistance [O/Z],A/Wuhan/359/95 (H3N2),Yen 2006 J Virol,16912325,10.1128/JVI.00477-06,"Exp mutagenesis, H3N2"
+NA,276,276,E,D,E276D,H7N7,Exp mutagenesis,NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,276,276,E,D,E276D,H7N7,Exp mutagenesis,NAI resistance [Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,277,277,E,Q,E277Q,H5N1,Antiviral selection,NAI resistance [O],A/Vietnam/1203/04 (H5N1),Govorkova 2007 Antimicrob Agents Chemother,17296744,10.1128/AAC.01312-06,Selection of resistance in ferrets by treatment
+NA,287,286,V,A,V286A,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P4"
+NA,292,292,R,K,R292K,H10N4,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N4 mutagenesis and NAI screen, or SDM"
+NA,292,292,R,K,R292K,H10N4,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N4"
+NA,292,292,R,K,R292K,H11N9,Exp mutagenesis,NAI resistance [O/Z/P],A/Duck/Memphis/546/1974 (H11N9) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N9 mutagenesis and NAI screen
+NA,292,292,R,K,R292K,H1N9,Antiviral selection,NAI resistance [Z/GS4071],NWS/G70S (H1N9) w/ NA of A/tern/Australia/G70C/75,McKimm-Breschkin 1998 J Virol,9499107,10.1128/JVI.72.3.2456-2462.1998,"Selection of resistance by treatment with 6-carboxamide, N9"
+NA,292,292,R,K,R292K,H3N2,Exp mutagenesis,"NAI resistance [O/Z], < fitness",A/Wuhan/359/95 (H3N2),Yen 2005 Antimicrob Agents Chemother,16189083,10.1128/AAC.49.10.4075-4084.2005,"Exp mutagenesis, H3N2"
+NA,292,292,R,K,R292K,H4N2,Antiviral selection,NAI resistance [GG167],A/turkey/Minnesota/833/80 (H4N2),Gubareva 1997 J Virol,9094607,10.1128/JVI.71.5.3385-3390.1997,"Selection of resistance by treatment, H4N2"
+NA,292,292,R,K,R292K,H4N6,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N6 mutagenesis and NAI screen, or SDM"
+NA,292,292,R,K,R292K,H5N2,Exp mutagenesis,NAI resistance [O/Z/P],A/goose/Taiwan/01031/2015 (H5N2) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N2"
+NA,292,292,R,K,R292K,H4N6,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N6"
+NA,292,292,R,K,R292K,H5N6,Exp mutagenesis,"NAI resistance [O/Z/P], HA-Y98F reduced binding balance",A/chicken/Jiangxi/02.05 YGYXG023-P/2015 (H5N6) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N6 2.3.4.4"
+NA,292,292,R,K,R292K,H5N8,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N8 mutagenesis and NAI screen, or SDM"
+NA,292,292,R,K,R292K,H5N8,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Environment/Korea/W468/2015 (H5N8) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N8"
+NA,292,292,R,K,R292K,H6N2,Antiviral selection,"NAI resistance [O/Z], stable with secondary (NA-D113N, NA-D141N, HA-E216K)",A/Mallard/Sweden/50908/2006 (H6N2),Gillman 2013 PLoS One,23951116,10.1371/journal.pone.0071230,"Selection of resistance by treatment in mallards, H6N2"
+NA,292,292,R,K,R292K,H6N5,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N5 mutagenesis and NAI screen, or SDM"
+NA,292,292,R,K,R292K,H6N5,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W69/2005 (H6N5) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N5"
+NA,292,292,R,K,R292K,H7N3,Exp mutagenesis,NAI resistance [O/Z/P],A/Turkey/Minnesota/916/1980 (H7N3) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N3"
+NA,292,292,R,K,R292K,H7N3,Exp mutagenesis,NAI resistance [O/Z/P],A/Turkey/Minnesota/916/1980 (H7N3) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N3 mutagenesis and NAI screen
+NA,292,292,R,K,R292K,H7N7,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,292,292,R,K,R292K,H7N7,Exp mutagenesis,NAI resistance [O/Z/P],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,292,292,R,K,R292K,H7N9,"Observation, human cases",NAI resistance [O],,Zou 2018 J Infect Dis,29688498,10.1093/infdis/jiy217,Mutation dynamics in huH7N9 cases
+NA,292,292,R,K,R292K,H7N9,Exp mutagenesis,NAI resistance [O/Z/P/L],,Marjuki 2015 J Infect Dis,25124927,10.1093/infdis/jiu447,"Exp mutagenesis, variants from huH7N9 case under treatment, Taiwan, 2013"
+NA,292,292,R,K,R292K,H7N9,Exp mutagenesis,"NAI resistance [O] in vivo ferret, viral shed",A/Taiwan/1/2013 (H7N9),Marjuki 2015 J Virol,25740997,10.1128/JVI.03513-14,"Exp mutagenesis in vivo ferrets, clinical variants of H7N9"
+NA,292,292,R,K,R292K,H7N9,Exp mutagenesis,"NAI resistance [O/Z/P] in vivo, no effect on virulence mice or transmission GP",A/Shanghai/1/2013 (H7N9) HA-NA recomb reassortant with 6-PR8,Hai 2013 Nat Commun,24326875,10.1038/ncomms3854,"Exp mutagenesis in vivo, H7N9"
+NA,292,292,R,K,R292K,H7N9,Exp mutagenesis,NAI resistance [O/Z/P/L],,Sleeman 2013 Emerg Infect Dis,23965618,10.3201/eid1909.130724,"Naturally occuring variant, huH7N9 (A/Shanghai/1/2013), recovered virus, recombinant NA"
+NA,292,292,R,K,R292K,H9N2,Antiviral selection,NAI resistance [O],A/chicken/India/Pune-NIV99321/2009 (H9N2),Kode 2019 Virus Res,30910698,10.1016/j.virusres.2019.03.019,"Selection of resistance by treatment, H9N2"
+NA,293,293,D,N,D293N,H7N7,Exp mutagenesis,NAI resistance [O/Z/L],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N7"
+NA,293,293,D,N,D293N,H7N7,Exp mutagenesis,NAI resistance [O/Z],A/Duck/Potsdam/62-4/1981 (H7N7) NA recomb reassort with PR8,Song 2015 J Virol,26292325,10.1128/JVI.01514-15,Exp random N7 mutagenesis and NAI screen
+NA,294,294,N,S,N294S,H1N1,Exp mutagenesis,NAI resistance [O],WSN (H1N1),Abed 2006 Antivir Ther,17302366,10.1177/135965350601100804,
+NA,294,294,N,S,N294S,H3N2,Exp mutagenesis,NAI resistance [O],A/Sydney/5/97 (H3N2),Abed 2006 Antivir Ther,17302366,10.1177/135965350601100804,
+NA,294,294,N,S,N294S,H5N1,"Observation, human cases",NAI resistance [O],A/Egypt/14725-NAMRU3/2006 (H5N1),Earhart 2009 J Infect Public Health,20701864,10.1016/j.jiph.2009.04.004,"Naturally occuring variant, huH5N1 case, Egypt, 2006"
+NA,294,294,N,S,N294S,H5N1,Exp mutagenesis,NAI resistance [O],A/Turkey/15/06 (H5N1),Ilyushina 2010 PLoS Pathog,20523902,10.1371/journal.ppat.1000933,H5N1 2.2
+NA,294,294,N,S,N294S,H5N1,"Observation, human cases",NAI resistance [O],A/Hanoi/30408/2005 (H5N1),Le 2005 Nature,16228009,10.1038/4371108a,"Naturally occuring variant, huH5N1 case, Vietnam, 2005"
+NA,294,294,N,S,N294S,H5N2,Exp mutagenesis,NAI resistance [Z],A/goose/Taiwan/01031/2015 (H5N2) HA-NA +6PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N2"
+NA,294,294,N,S,N294S,H5N6,Exp mutagenesis,"NAI resistance [Z], HA-A189T reduced binding balance",A/chicken/Jiangxi/02.05 YGYXG023-P/2015 (H5N6) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N6 2.3.4.4"
+NA,294,294,N,S,N294S,H5N8,Exp mutagenesis,NAI resistance [O/P],A/scarlet ibis/Germany/Ar44-L01279/2015 (H5N8) HA-NA recomb reassort with 6-PR8,Bialy 2020 Antiviral Res,32750468,10.1016/j.antiviral.2020.104886,"Exp mutagenesis, H5N8"
+NA,294,294,N,S,N294S,H5N8,Observation,NAI resistance [O],A/chicken/Tatarstan/112/2017 (H5N8),Svyatchenko 2021 Antiviral Res,33933515,10.1016/j.antiviral.2021.105079,"Naturally occuring variants avH5N8, Russia, 2014-2018"
+NA,294,295,N,S,N295S,H5N1,Observation,*only w/ T438N* NAI resistance [O/Z/P/L],,Nguyen 2023 Antiviral Res,37494978,10.1016/j.antiviral.2023.105679,"Naturally occuring variants avH5N1 2.3.4.4b, USA, 2022 "
+NA,314,314,I,V,I314V,H5N1,Observation,NAI resistance [O] w/ NA-I117V,,Hurt 2007 Antiviral Res,17112602,10.1016/j.antiviral.2006.10.004,"Naturally occuring variants avian H5N1, South East Asia, 2004-2006"
+NA,316,316,H,Y,H316Y,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+NA,319,328,A,S,A328S,H7N7,Mouse adaptation,> virulence mice,A/Seal/Massachussetts/1/80 (H7N7),Gabriel 2005 Proc Natl Acad Sci U S A,16339318,10.1073/pnas.0507415102,
+NA,329,329,N,D,N329D,H1N1,Swine adaptation,"> virulence pigs, > contact transmission GP",,Wei 2014 J Virol,25100840,10.1128/jvi.01679-14,rH1N1pdm09 adaptation in pigs
+NA,329,330,Q,R,Q330R,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P6"
+NA,,331,,,d331,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NA,372,350,S,N,S350N,H7N1,Mouse adaptation,> virulence mice,A/Baer’s Pochard/HuNan/414/2010 (H7N1),Yu 2015 Virology,25555151,10.1016/j.virol.2014.11.031,
+NA,,356,D,N,D356N,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Hubei/01/1999 (H9N2),Zhang 2011 Infect Genet Evol,21896338,10.1016/j.meegid.2011.07.025,LPAI
+NA,367,367,S,N,S367N,H2N2,Exp mutagenesis,loss of 2SBS,A/Singapore/1/1957 (H2N2),Uhlendorff 2009 Arch Virol,19458903,10.1007/s00705-009-0393-x,"Mutagenesis of 2SBS, H2N2"
+NA,367,367,S,N,S367N,H2N2,Exp mutagenesis,loss of 2SBS,A/Singapore/1/1957 (H2N2),Du 2019 PLoS Pathog,31181126,10.1371/journal.ppat.1007860,"Mutagenesis of 2SBS to avian consensus, H2N2"
+NA,367,367,S,N,S367N,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,367,367,S,G,S367G,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,367,367,S,R,S367R,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,369,369,N,I,N369I,H1N1,Mouse adaptation,> virulence mice,A/FM/1/47 (H1N1),Brown 1999 Virus Res,10426210,10.1016/s0168-1702(99)00027-1,
+NA,369,369,A,I,A369I,H5N1,Exp mutagenesis,loss of 2SBS,,Du 2018 J Virol,30089692,10.1128/JVI.01243-18,"Exp mutagenesis, N1 variants of H5N1"
+NA,369,369,A,I,A369I,H5N1,"Observation, mammalian cases",loss of 2SBS,,de Vries 2023 Euro Surveill,36795504,10.2807/1560-7917.ES.2023.28.7.2300085,"Observed mammalian cases (mink), naturally occuring variant, 372?"
+NA,370,370,S,L,S370L,H2N2,Exp mutagenesis,loss of 2SBS,A/Singapore/1/1957 (H2N2),Uhlendorff 2009 Arch Virol,19458903,10.1007/s00705-009-0393-x,"Mutagenesis of 2SBS, H2N2"
+NA,371,371,R,K,R371K,H3N2,Exp mutagenesis,"NAI resistance [O/Z], unlikely change",A/Wuhan/359/95 (H3N2),Yen 2006 J Virol,16912325,10.1128/JVI.00477-06,"Exp mutagenesis, H3N2"
+NA,371,371,R,K,R371K,H4N6,Exp mutagenesis,NAI resistance [O/Z/P],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N6 mutagenesis and NAI screen, or SDM"
+NA,371,371,R,K,R371K,H4N6,Exp mutagenesis,NAI resistance [O/Z/P/L],A/Environment/Korea/W20/2005 (H4N6) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N6"
+NA,370,371,S,F,S371F,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+NA,372,372,S,N,S372N,H7N7,Mouse adaptation,> virulence mice,A/Lesser White-fronted Goose/HuNan/412/2010 (H7N7),Chen 2015 Vet Microbiol,25769645,10.1016/j.vetmic.2015.02.016,
+NA,372,372,S,F,S372F,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,,377,V,I,V377I,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+NA,388,385,K,R,K385R,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P4"
+NA,,389,G,D,G389D,H7N9,Mouse adaptation,> virulence mice,A/Shanghai/2/2013 (H7N9),Zhao 2016 Vet Microbiol,27066703,10.1016/j.vetmic.2016.02.027,
+NA,397,396,I,M,I396M,H5N1,"Observation, mammalian cases",loss of 2SBS,,de Vries 2023 Euro Surveill,36795504,10.2807/1560-7917.ES.2023.28.7.2300085,"Observed mammalian cases (mink), naturally occuring variant, 400?"
+NA,400,400,N,S,N400S,H2N2,Exp mutagenesis,loss of 2SBS,A/Singapore/1/1957 (H2N2),Uhlendorff 2009 Arch Virol,19458903,10.1007/s00705-009-0393-x,"Mutagenesis of 2SBS, H2N2"
+NA,400,400,N,K,N400K,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,401,401,T,A,T401A,H7N9,Exp mutagenesis,loss of 2SBS,A/Anhui/1/2013 (H7N9),Dai 2017 J Virol,28202753,10.1128/JVI.00049-17,
+NA,403,403,W,R,W403R,H2N2,Exp mutagenesis,loss of 2SBS,A/Singapore/1/1957 (H2N2),Uhlendorff 2009 Arch Virol,19458903,10.1007/s00705-009-0393-x,"Mutagenesis of 2SBS, H2N2"
+NA,418,418,I,M,I418M,H5N1,Antiviral selection,"unknown, linked to NAI resistance [O]",A/Vietnam/1203/04 (H5N1),Govorkova 2007 Antimicrob Agents Chemother,17296744,10.1128/AAC.01312-06,"Selection of resistance in ferrets by treatment, H5N1"
+NA,427,428,I,L,I428L,H10N4,Exp mutagenesis,NAI resistance [O/Z],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Choi 2018 J Virol,29046464,10.1128/JVI.01580-17,"Exp random N4 mutagenesis and NAI screen, or SDM"
+NA,427,428,I,L,I428L,H10N4,Exp mutagenesis,NAI resistance [O/Z/L],A/Environment/Korea/W140/2006 (H10N4) NA recomb reassort with PR8,Jeong 2020 J Virol,33055248,10.1128/JVI.01679-20,"Exp mutagenesis, N4"
+NA,,430,R,W,R430W,H5N1,Observation,NAI resistance [O/Z/L],,Nguyen 2013 Emerg Infect Dis,24274711,10.3201/eid1912.130705,"Naturally occuring variants avH5N1 1.1, Vietnam, 2011-2013"
+NA,432,432,K,E,K432E,H1N1,Exp mutagenesis,"loss of 2SBS, > sialidase, antibody evasion",,Dai 2021 mBio,33975931,10.1128/mbio.00287-21,"Exp mutagenesis, H1N1pdm09 timeline"
+NA,432,432,K,T,K432T,H5N1,Observation,NAI resistance [Z],,Creanga 2017 J Infect Dis,28934457,10.1093/infdis/jix003,"Naturally occuring variants, Vietnam, 2003-2010"
+NA,432,432,K,E,K432E,H5N1,Observation,NAI resistance [Z/P],,Andreev 2024 J Infect Dis,37770028,10.1093/infdis/jiad418,"Naturally occuring variants H5N1, Global, 2022-2023"
+NA,432,432,K,E,K432E,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,,435,K,G,K435G,HXN9,Antibody selection,nAb evasion,A/tern/Australia/G70c/75 (HXN9),Air 1990 J Virol,1700825,10.1128/jvi.64.12.5797-5803.1990,"Antibody escape selection, N9"
+NA,437,436,I,N,I436N,H1N1,Exp mutagenesis,NAI resistance [O/Z/P/L],A/California/04/2009 (H1N1),Kwon 2018 J Gen Virol,29493493,10.1099/jgv.0.001029,"Exp mutagenesis, derived from mutagenesis in H275Y background, H1N1pdm09"
+NA,436,436,V,A,V436A,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+NA,439,438,T,N,T438N,H5N1,Observation,"NAI resistance [Z], +O/P/L *with NA-N295S*",,Nguyen 2023 Antiviral Res,37494978,10.1016/j.antiviral.2023.105679,"Naturally occuring variants avH5N1 2.3.4.4b, USA, 2022 "
+NA,438,438,T,I,T438I,H5N1,Observation,NAI resistance [Z/P],,Andreev 2024 J Infect Dis,37770028,10.1093/infdis/jiad418,"Naturally occuring variants H5N1, Global, 2022-2023"
+NA,449,453,S,I,S453I,H10N7,Mouse adaptation,> virulence mice,A/mallard/Beijing/27/2011 (H10N7),Zhang 2017 J Gen Virol,28597818,10.1099/jgv.0.000770,
+NA,458,458,P,T,P458T,H1N1,Antiviral selection,NAI resistance [O/Z/P/L],A/California/04/2009 (H1N1),Lloren 2019 J Virol,30602610,"10.1128/JVI.01825-18
+
+","Selection of resistance by treatment laninamivir, of random N1 mutagenesis"
+NA,464,461,I,V,I461V,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NA,468,468,P,H,P468H,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

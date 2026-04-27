@@ -1,0 +1,72 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+M1,15,I,V,I15V,H5N1,T-cell selection,T-cell evasive residues,,Jansen 2024 Virus Res,38490580,10.1016/j.virusres.2024.199355,"Passage adaptation in A549 expressing HLA-A*02:01 in presence of CD8+ Tcells specific for M1-58-66 epitope, WSN-M-avH5N1 (A/Vietnam/1194/2005); residues T-cell evasive residues, match huH3N2 (A/Netherlands/178/1995)"
+M1,27,K,R,K27R,H5N1,T-cell selection,T-cell evasive residues,,Jansen 2024 Virus Res,38490580,10.1016/j.virusres.2024.199355,"Passage adaptation in A549 expressing HLA-A*02:01 in presence of CD8+ Tcells specific for M1-58-66 epitope, WSN-M-avH5N1 (A/Vietnam/1194/2005); residues T-cell evasive residues, match huH3N2 (A/Netherlands/178/1995)"
+M1,27,K,R,K27R,H5N1,Mouse adaptation,> virulence mice,,Li 2009 Virus Res,19393699,10.1016/j.virusres.2009.04.008,MA H5N1
+M1,29,E,V,E29V,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,30,N,D,N30D,H2N2,Mouse adaptation,> virulence mice,,Govorkova 2000 Acta Virol,11252668,,MA avian H2
+M1,30,N,D,N30D,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+M1,30,N,D,N30D,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+M1,30,N,D,N30D,H3N8,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+M1,30,N,D,N30D,H3N8,Observation,,A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+M1,30,N,D,N30D,H5N1,Exp mutagenesis,> virulence mice,A/duck/Guangxi/53/2002 (H5N1) and A/duck/Fujian/01/2002 (H5N1),Fan 2009 Virology,19117585,10.1016/j.virol.2008.11.044,
+M1,30,N,D,N30D,H5N1,"Observation, mammalian cases",,,Cronk 2023 Emerg Microbes Infect,37589241,10.1080/22221751.2023.2249554,"Red Fox kits, meningoencephalitis"
+M1,30,N,D,N30D,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+M1,36,N,S,N36S,H9N2,Mouse adaptation,> virulence mice,MA LPAI H9N2 (A/Ck/Korea/163/04),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,
+M1,41,A,V,A41V,H1N1,Mouse adaptation,> virulence mice,WSN,Ward 1995 Arch Virol,7710364,10.1007/BF01309872,
+M1,41,P,A,P41A,H1N1,Exp mutagenesis,> GP transmission,A/swine/Spain/53207/04 (H1N1),Campbell 2014 J Virol,24760887,10.1128/JVI.00119-14,
+M1,43,I,M,I43M,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+M1,43,I,M,I43M,H5N1,Exp infection,"> virulence chickens, ducks, mice",,Nao 2015 PLoS One,26368015,10.1371/journal.pone.0137989,
+M1,53,S,P,S53P,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P6"
+M1,95,R,K,R95K,,Exp mutagenesis,> virulence,,Lin 2023 PLoS Pathog,37343022,10.1371/journal.ppat.1011472,"TRIM21-evasion, multiple subtype origin"
+M1,95,R,K,R95K,H7N1,Ferret adaptation,> transmission ferrets,,Sutton 2014 J Virol,24696487,10.1128/jvi.02765-13,Passage adaptation in ferrets
+M1,101,K,R,K101R,H5N1,T-cell selection,T-cell evasive residues,,Jansen 2024 Virus Res,38490580,10.1016/j.virusres.2024.199355,"Passage adaptation in A549 expressing HLA-A*02:01 in presence of CD8+ Tcells specific for M1-58-66 epitope, WSN-M-avH5N1 (A/Vietnam/1194/2005); residues T-cell evasive residues, match huH3N2 (A/Netherlands/178/1995)"
+M1,115,V,I,V115I,H5N1,T-cell selection,T-cell evasive residues,,Jansen 2024 Virus Res,38490580,10.1016/j.virusres.2024.199355,"Passage adaptation in A549 expressing HLA-A*02:01 in presence of CD8+ Tcells specific for M1-58-66 epitope, WSN-M-avH5N1 (A/Vietnam/1194/2005); residues T-cell evasive residues, match huH3N2 (A/Netherlands/178/1995)"
+M1,119,Y,H,Y119H,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,121,T,A,T121A,H5N1,T-cell selection,T-cell evasive residues,,Jansen 2024 Virus Res,38490580,10.1016/j.virusres.2024.199355,"Passage adaptation in A549 expressing HLA-A*02:01 in presence of CD8+ Tcells specific for M1-58-66 epitope, WSN-M-avH5N1 (A/Vietnam/1194/2005); residues T-cell evasive residues, match huH3N2 (A/Netherlands/178/1995)"
+M1,128,M,R,M128R,H7N9,Mouse adaptation,> virulence mice,A/Shanghai/2/2013 (H7N9),Zhao 2016 Vet Microbiol,27066703,10.1016/j.vetmic.2016.02.027,
+M1,129,G,D,G129D,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+M1,139,T,A,T139A,H1N1,Mouse adaptation,> virulence mice,WSN (H1N1),Ward 1995 Arch Virol,7710364,10.1007/BF01309872,
+M1,139,T,A,T139A,H1N1,Mouse adaptation,> virulence mice,A/FM/1/47 (H1N1),Brown 1999 Virus Res,10426210,10.1016/s0168-1702(99)00027-1,
+M1,154,T,I,T154I,H9N2,Mouse adaptation,"> replication mice, > virulence mice",A/chicken/Hubei/01/1999 (H9N2),Zhang 2011 Infect Genet Evol,21896338,10.1016/j.meegid.2011.07.025,LPAI
+M1,157,S,A,S157A,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,158,H,Q,H158Q,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,166,A,V,A166V,H9N2,Mouse adaptation,> virulence mice,A/duck/Jiangsu/1/2008 (H9N2),Liu 2014 Arch Virol,24696271,10.1007/s00705-014-2062-y,
+M1,167,T,A,T167A,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+M1,167,T,I,T167I,H9N2,Mouse adaptation,> virulence mice,A/Ck/Korea/163/04 (H9N2),Park 2015 J Microbiol,26224460,10.1007/s12275-015-5329-4,LPAI
+M1,179,M,L,M179L,H2N2,Mouse adaptation,> virulence mice,,Govorkova 2000 Acta Virol,11252668,,MA human H2
+M1,192,M,V,M192V,H3N2,Mouse adaptation,> virulence mice,A/baikal teal/Shanghai/SH-89/2013 (H3N2),Yu 2017 Vet Microbiol,28757037,10.1016/j.vetmic.2017.05.020,LPAI
+M1,192,M,V,M192V,H3N2,Mouse adaptation,> virulence mice,A/baikal teal/Shanghai/SH-89/2013 (H3N2),Yu 2019 Virus Res,31173771,10.1016/j.virusres.2019.06.002,LPAI
+M1,192,M,V,M192V,H10N8,Mouse adaptation,> virulence mice,,Zhang 2011 Virol J,21272297,10.1186/1743-422X-8-42,"MA of wild isolate, P6"
+M1,198,Q,H,Q198H,H9N2,Mouse adaptation,> virulence mice,A/Quail/Hong Kong/G1/97 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,198,Q,H,Q198H,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,210,R,K,R210K,H9N2,Mouse adaptation,> replication mice,"A/chicken/Shandong/16/05 (H9N2), w/ M147L vir",Wang 2012 PLoS One,22808250,10.1371/journal.pone.0040752,
+M1,211,Q,K,Q211K,H7N1,Ferret adaptation,> transmission ferrets,,Sutton 2014 J Virol,24696487,10.1128/jvi.02765-13,Passage adaptation in ferrets
+M1,214,G,H,G214H,H2N2,Mouse adaptation,> virulence mice,,Govorkova 2000 Acta Virol,11252668,,MA avian H2
+M1,215,T,A,T215A,H3N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+M1,215,T,A,T215A,H3N3,Exp infection,"> virulence mice, > replication",A/chicken/Shandong/118/2023 (H3N3),Chu 2025 Polt Sci,41232215,10.1016/j.psj.2025.106048,"Naturally occuring variant, H3N3"
+M1,215,T,A,T215A,H3N8,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+M1,215,T,A,T215A,H3N8,Observation,,A/environment/Beijing/03/2024 (H3N8),Zhao 2025 China CDC Wkly,41256044,10.46234/ccdcw2025.233,"Naturally occuring variants, environmental H3N8"
+M1,215,T,A,T215A,H5N1,Exp mutagenesis,> virulence mice,A/duck/Guangxi/53/2002 (H5N1) and A/duck/Fujian/01/2002 (H5N1),Fan 2009 Virology,19117585,10.1016/j.virol.2008.11.044,
+M1,215,T,A,T215A,H5N1,"Observation, mammalian cases",,,Cronk 2023 Emerg Microbes Infect,37589241,10.1080/22221751.2023.2249554,"Red Fox kits, meningoencephalitis"
+M1,215,T,A,T215A,H10N1,Exp infection,moderate virulence in mice w/o adaptation,,Xie 2023 Vet Microbiol,36724731,10.1016/j.vetmic.2023.109669,"Naturally occuring variants in avian isolates, Yancheng Wetland at Yellow Sea coast of Jiangsu, 2019-2020"
+M1,219,I,V,I219V,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,222,Q,H,Q222H,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,227,A,S,A227S,H7N1,Cell culture adaptation,Nuclear export defect,A/ostrich/Zimbabwe/222-E3/1996 (H7N1),Ninpan 2017 Virus Res,28579356,10.1016/j.virusres.2017.05.021,Passage adaptation in A549
+M1,231,D,N,D231N,H1N2,Mouse adaptation,> virulence mice,A/black-necked crane/Zhaotong/ZT-12/2013 (H1N2),Yu 2017 Vet Microbiol,28757046,10.1016/j.vetmic.2017.06.009,
+M1,232,D,N,D232N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+M1,232,D,N,D232N,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+M1,239,A,T,A239T,H9N2,Mouse adaptation,> virulence mice,A/Quail/Hong Kong/G1/97 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,239,A,T,A239T,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+M1,242,K,R,K242R,,Exp mutagenesis,> virulence,,Lin 2023 PLoS Pathog,37343022,10.1371/journal.ppat.1011472,"TRIM21-evasion, multiple subtype origin"
+M1,248,M,L,M248L,H6N6,Mouse adaptation,> virulence mice,A/Duck/Hubei/5/10 (H6N6),Yao 2013 Arch Virol,23053524,10.1007/s00705-012-1496-3,"MA, P8"
+M1,249,P,Q,P249Q,H5N2,Mouse adaptation,> replication mice,A/Aquatic bird/Korea/W81/05 (H5N2),Song 2009 J Virol,19793828,10.1128/JVI.01373-09,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

@@ -1,0 +1,24 @@
+Viral Protein,Consensus Position,Reservoir/Neutral Residue,Risk Residue,Mutation Anotation,IAV Subtype,Study Design,Phenotype Summary,Genetic Background,Literature,Literature PMID,Literature doi,Notes
+NEP,7,S,L,S7L,H5N1,Exp mutagenesis,> Pol,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2012 Nat Commun,22549831,10.1038/ncomms1804,
+NEP,16,M,I,M16I,H5N1,Exp mutagenesis,> Pol,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2012 Nat Commun,22549831,10.1038/ncomms1804,
+NEP,16,M,I,M16I,H5N1,Exp mutagenesis,> Pol,A/Thailand/1(KAN-1)/2004 (H5N1),Reuther 2014 J Virol,24155389,10.1128/jvi.01495-13,
+NEP,23,S,P,S23P,H3N2,Mouse adaptation,> virulence mice,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,"MA huH3N2, NS1-V180A"
+NEP,41,Y,C,Y41C,H5N1,Exp mutagenesis,> Pol,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2012 Nat Commun,22549831,10.1038/ncomms1804,
+NEP,41,Y,C,Y41C,H5N1,Exp mutagenesis,"> Pol, low temp w/ NEP-M16I",A/Thailand/1(KAN-1)/2004 (H5N1),Reuther 2014 J Virol,24155389,10.1128/jvi.01495-13,
+NEP,47,T,A,T47A,H5N1,Exp reassortant,> virulence ferrets,A/Vietnam/UT3062/04 (H5N1),Imai 2010 PLoS Pathog,20862325,10.1371/journal.ppat.1001106,NS1-N200S
+NEP,48,T,N,T48N,H1N1,Swine adaptation,"> virulence pigs, > contact transmission GP",,Wei 2014 J Virol,25100840,10.1128/jvi.01679-14,rH1N1pdm09 adaptation in pigs
+NEP,51,I,M,I51M,H5N1,Exp reassortant,> virulence ferrets,A/Vietnam/UT3062/04 (H5N1),Imai 2010 PLoS Pathog,20862325,10.1371/journal.ppat.1001106,NS1-G205R
+NEP,67,E,K,E67K,H9N2,Mouse adaptation,> virulence mice,A/Chicken/Jiangsu/7/2002 (H9N2),Wu 2009 Vet Microbiol,19342184,10.1016/j.vetmic.2009.03.010,
+NEP,69,E,G,E69G,H5N2,Mouse adaptation,> virulence,A/duck/Zhejiang/6DK19/2013 (H5N2),Wu 2016 Virol J,27663652,10.1186/s12985-016-0612-5,
+NEP,70,G,S,G70S,H3N2,Mouse adaptation,,A/HongKong/1/1968 (H3N2),Forbes 2012 PLoS One,22363747,10.1371/journal.pone.0031839,"MA huH3N2, NS1-R227K"
+NEP,75,E,G,E75G,H5N1,Exp mutagenesis,> Pol,A/Thailand/1(KAN-1)/2004 (H5N1),Mänz 2012 Nat Commun,22549831,10.1038/ncomms1804,
+NEP,75,E,G,E75G,H5N1,Exp mutagenesis,"> Pol, low temp w/ NEP-M16I",A/Thailand/1(KAN-1)/2004 (H5N1),Reuther 2014 J Virol,24155389,10.1128/jvi.01495-13,
+NEP,75,E,V,E75V,H9N2,Mouse adaptation,> virulence mice,A/chicken/Shandong/ZB/2007 (H9N2),Hu 2019 Virol J,31718675,10.1186/s12985-019-1227-4,
+NEP,88,K,R,L88R,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Brown 2001 Proc Natl Acad Sci U S A,11371620,10.1073/pnas.111165798,
+NEP,88,K,R,K88R,H3N2,Mouse adaptation,> virulence mice,A/HK/1/68 (H3N2),Ping 2011 PLoS One,21738783,10.1371/journal.pone.0021740,
+NEP,110,G,E,G110E,H9N2,Exp mutagenesis,> Pol,A/chicken/Zhejiang/B2013/2012 (H9N2),Sun 2023 Sci Adv,37436988,10.1126/sciadv.adg5175,SIM motif
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
